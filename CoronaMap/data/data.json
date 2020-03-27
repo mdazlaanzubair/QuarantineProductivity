@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "id": "asda112sdasd",
+            "infected": 12312312385,
+            "recovered": 58
+        },
+        {
+            "id": "asda654sdasd",
+            "infected": 1236685,
+            "recovered": 58
+        },
+        {
+            "id": "asd234asdasd",
+            "infected": 12382345,
+            "recovered": 58
+        }
+    ]
+}
