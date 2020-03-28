@@ -1,519 +1,575 @@
 [
   {
-    "country": "China",
-    "total_cases": "81,340",
-    "new_cases": "+55",
-    "total_deaths": "3,292 ",
-    "new_deaths": "+5",
-    "total_recovered": "74,588",
-    "active_cases": "3,460",
-    "critical_cases": "1,034",
-    "total_cases_1m_pop": "57",
-    "total_deaths_1m_pop": "2"
-  },
-  {
     "country": "USA",
-    "total_cases": "100,392",
-    "new_cases": "+14,957",
-    "total_deaths": "1,543 ",
-    "new_deaths": "+248",
-    "total_recovered": "2,465",
-    "active_cases": "96,384",
-    "critical_cases": "2,463",
-    "total_cases_1m_pop": "303",
-    "total_deaths_1m_pop": "5"
+    "total_cases": "104,256",
+    "new_cases": "+130",
+    "total_deaths": "1,704 ",
+    "new_deaths": "+8",
+    "total_recovered": "2,525",
+    "active_cases": "100,027",
+    "critical_cases": "2,494",
+    "total_cases_1m_pop": "315",
+    "total_deaths_1m_pop": "5",
+    "first_case_reported": "Jan 20 "
   },
   {
     "country": "Italy",
     "total_cases": "86,498",
-    "new_cases": "+5,909",
+    "new_cases": null,
     "total_deaths": "9,134 ",
-    "new_deaths": "+919",
+    "new_deaths": null,
     "total_recovered": "10,950",
     "active_cases": "66,414",
     "critical_cases": "3,732",
     "total_cases_1m_pop": "1,431",
-    "total_deaths_1m_pop": "151"
+    "total_deaths_1m_pop": "151",
+    "first_case_reported": "Jan 29 "
   },
   {
     "country": "Spain",
-    "total_cases": "64,059",
-    "new_cases": "+6,273",
-    "total_deaths": "4,934 ",
-    "new_deaths": "+569",
+    "total_cases": "65,719",
+    "new_cases": null,
+    "total_deaths": "5,138 ",
+    "new_deaths": null,
     "total_recovered": "9,357",
-    "active_cases": "49,768",
+    "active_cases": "51,224",
     "critical_cases": "4,165",
-    "total_cases_1m_pop": "1,370",
-    "total_deaths_1m_pop": "106"
+    "total_cases_1m_pop": "1,406",
+    "total_deaths_1m_pop": "110",
+    "first_case_reported": "Jan 30 "
   },
   {
     "country": "Germany",
-    "total_cases": "50,871",
-    "new_cases": "+6,933",
-    "total_deaths": "342 ",
-    "new_deaths": "+75",
+    "total_cases": "53,340",
+    "new_cases": "+2,469",
+    "total_deaths": "395 ",
+    "new_deaths": "+44",
     "total_recovered": "6,658",
-    "active_cases": "43,871",
-    "critical_cases": "23",
-    "total_cases_1m_pop": "607",
-    "total_deaths_1m_pop": "4"
+    "active_cases": "46,287",
+    "critical_cases": "1,581",
+    "total_cases_1m_pop": "637",
+    "total_deaths_1m_pop": "5",
+    "first_case_reported": "Jan 26 "
   },
   {
     "country": "France",
     "total_cases": "32,964",
-    "new_cases": "+3,809",
+    "new_cases": null,
     "total_deaths": "1,995 ",
-    "new_deaths": "+299",
+    "new_deaths": null,
     "total_recovered": "5,700",
     "active_cases": "25,269",
     "critical_cases": "3,787",
     "total_cases_1m_pop": "505",
-    "total_deaths_1m_pop": "31"
+    "total_deaths_1m_pop": "31",
+    "first_case_reported": "Jan 23 "
   },
   {
     "country": "Iran",
     "total_cases": "32,332",
-    "new_cases": "+2,926",
+    "new_cases": null,
     "total_deaths": "2,378 ",
-    "new_deaths": "+144",
+    "new_deaths": null,
     "total_recovered": "11,133",
     "active_cases": "18,821",
     "critical_cases": "2,893",
     "total_cases_1m_pop": "385",
-    "total_deaths_1m_pop": "28"
+    "total_deaths_1m_pop": "28",
+    "first_case_reported": "Feb 18 "
   },
   {
     "country": "UK",
     "total_cases": "14,543",
-    "new_cases": "+2,885",
+    "new_cases": null,
     "total_deaths": "759 ",
-    "new_deaths": "+181",
+    "new_deaths": null,
     "total_recovered": "135",
     "active_cases": "13,649",
     "critical_cases": "163",
     "total_cases_1m_pop": "214",
-    "total_deaths_1m_pop": "11"
+    "total_deaths_1m_pop": "11",
+    "first_case_reported": "Jan 30 "
   },
   {
     "country": "Switzerland",
     "total_cases": "12,928",
-    "new_cases": "+1,117",
+    "new_cases": null,
     "total_deaths": "231 ",
-    "new_deaths": "+39",
+    "new_deaths": null,
     "total_recovered": "1,530",
     "active_cases": "11,167",
     "critical_cases": "203",
     "total_cases_1m_pop": "1,494",
-    "total_deaths_1m_pop": "27"
+    "total_deaths_1m_pop": "27",
+    "first_case_reported": "Feb 24 "
   },
   {
     "country": "S. Korea",
-    "total_cases": "9,332",
-    "new_cases": "+91",
-    "total_deaths": "139 ",
-    "new_deaths": "+8",
-    "total_recovered": "4,528",
-    "active_cases": "4,665",
+    "total_cases": "9,478",
+    "new_cases": "+146",
+    "total_deaths": "144 ",
+    "new_deaths": "+5",
+    "total_recovered": "4,811",
+    "active_cases": "4,523",
     "critical_cases": "59",
-    "total_cases_1m_pop": "182",
-    "total_deaths_1m_pop": "3"
+    "total_cases_1m_pop": "185",
+    "total_deaths_1m_pop": "3",
+    "first_case_reported": "Jan 19 "
   },
   {
     "country": "Netherlands",
     "total_cases": "8,603",
-    "new_cases": "+1,172",
+    "new_cases": null,
     "total_deaths": "546 ",
-    "new_deaths": "+112",
+    "new_deaths": null,
     "total_recovered": "3",
     "active_cases": "8,054",
     "critical_cases": "761",
     "total_cases_1m_pop": "502",
-    "total_deaths_1m_pop": "32"
+    "total_deaths_1m_pop": "32",
+    "first_case_reported": "Feb 26 "
   },
   {
     "country": "Austria",
-    "total_cases": "7,657",
-    "new_cases": "+748",
+    "total_cases": "7,712",
+    "new_cases": "+15",
     "total_deaths": "58 ",
-    "new_deaths": "+9",
+    "new_deaths": null,
     "total_recovered": "225",
-    "active_cases": "7,374",
+    "active_cases": "7,429",
     "critical_cases": "128",
-    "total_cases_1m_pop": "850",
-    "total_deaths_1m_pop": "6"
+    "total_cases_1m_pop": "856",
+    "total_deaths_1m_pop": "6",
+    "first_case_reported": "Feb 24 "
   },
   {
     "country": "Belgium",
     "total_cases": "7,284",
-    "new_cases": "+1,049",
+    "new_cases": null,
     "total_deaths": "289 ",
-    "new_deaths": "+69",
+    "new_deaths": null,
     "total_recovered": "858",
     "active_cases": "6,137",
     "critical_cases": "690",
     "total_cases_1m_pop": "628",
-    "total_deaths_1m_pop": "25"
+    "total_deaths_1m_pop": "25",
+    "first_case_reported": "Feb 03 "
   },
   {
     "country": "Turkey",
     "total_cases": "5,698",
-    "new_cases": "+2,069",
+    "new_cases": null,
     "total_deaths": "92 ",
-    "new_deaths": "+17",
+    "new_deaths": null,
     "total_recovered": "42",
     "active_cases": "5,564",
     "critical_cases": "241",
     "total_cases_1m_pop": "68",
-    "total_deaths_1m_pop": "1"
+    "total_deaths_1m_pop": "1",
+    "first_case_reported": "Mar 09 "
   },
   {
     "country": "Canada",
-    "total_cases": "4,633",
-    "new_cases": "+590",
-    "total_deaths": "53 ",
-    "new_deaths": "+14",
-    "total_recovered": "228",
-    "active_cases": "4,352",
+    "total_cases": "4,757",
+    "new_cases": null,
+    "total_deaths": "55 ",
+    "new_deaths": null,
+    "total_recovered": "354",
+    "active_cases": "4,348",
     "critical_cases": "120",
-    "total_cases_1m_pop": "123",
-    "total_deaths_1m_pop": "1"
+    "total_cases_1m_pop": "126",
+    "total_deaths_1m_pop": "1",
+    "first_case_reported": "Jan 24 "
   },
   {
     "country": "Portugal",
     "total_cases": "4,268",
-    "new_cases": "+724",
+    "new_cases": null,
     "total_deaths": "76 ",
-    "new_deaths": "+16",
+    "new_deaths": null,
     "total_recovered": "43",
     "active_cases": "4,149",
     "critical_cases": "71",
     "total_cases_1m_pop": "419",
-    "total_deaths_1m_pop": "7"
+    "total_deaths_1m_pop": "7",
+    "first_case_reported": "Mar 01 "
   },
   {
     "country": "Norway",
-    "total_cases": "3,717",
-    "new_cases": "+345",
+    "total_cases": "3,773",
+    "new_cases": "+2",
     "total_deaths": "19 ",
-    "new_deaths": "+5",
-    "total_recovered": "6",
-    "active_cases": "3,692",
+    "new_deaths": null,
+    "total_recovered": "7",
+    "active_cases": "3,747",
     "critical_cases": "70",
-    "total_cases_1m_pop": "686",
-    "total_deaths_1m_pop": "4"
-  },
-  {
-    "country": "Brazil",
-    "total_cases": "3,417",
-    "new_cases": "+432",
-    "total_deaths": "92 ",
-    "new_deaths": "+15",
-    "total_recovered": "6",
-    "active_cases": "3,319",
-    "critical_cases": "296",
-    "total_cases_1m_pop": "16",
-    "total_deaths_1m_pop": "0.4"
+    "total_cases_1m_pop": "696",
+    "total_deaths_1m_pop": "4",
+    "first_case_reported": "Feb 25 "
   },
   {
     "country": "Australia",
-    "total_cases": "3,180",
-    "new_cases": "+130",
-    "total_deaths": "13 ",
-    "new_deaths": null,
+    "total_cases": "3,635",
+    "new_cases": "+257",
+    "total_deaths": "14 ",
+    "new_deaths": "+1",
     "total_recovered": "170",
-    "active_cases": "2,997",
+    "active_cases": "3,451",
     "critical_cases": "23",
-    "total_cases_1m_pop": "125",
-    "total_deaths_1m_pop": "0.5"
+    "total_cases_1m_pop": "143",
+    "total_deaths_1m_pop": "0.5",
+    "first_case_reported": "Jan 24 "
   },
   {
-    "country": "Sweden",
-    "total_cases": "3,046",
-    "new_cases": "+206",
-    "total_deaths": "92 ",
-    "new_deaths": "+15",
-    "total_recovered": "16",
-    "active_cases": "2,938",
-    "critical_cases": "214",
-    "total_cases_1m_pop": "302",
-    "total_deaths_1m_pop": "9"
+    "country": "Brazil",
+    "total_cases": "3,477",
+    "new_cases": "+60",
+    "total_deaths": "93 ",
+    "new_deaths": "+1",
+    "total_recovered": "6",
+    "active_cases": "3,378",
+    "critical_cases": "296",
+    "total_cases_1m_pop": "16",
+    "total_deaths_1m_pop": "0.4",
+    "first_case_reported": "Feb 24 "
   },
   {
     "country": "Israel",
-    "total_cases": "3,035",
-    "new_cases": "+342",
+    "total_cases": "3,460",
+    "new_cases": "+425",
     "total_deaths": "12 ",
-    "new_deaths": "+4",
-    "total_recovered": "79",
-    "active_cases": "2,944",
-    "critical_cases": "49",
-    "total_cases_1m_pop": "351",
-    "total_deaths_1m_pop": "1"
+    "new_deaths": null,
+    "total_recovered": "89",
+    "active_cases": "3,359",
+    "critical_cases": "50",
+    "total_cases_1m_pop": "400",
+    "total_deaths_1m_pop": "1",
+    "first_case_reported": "Feb 20 "
+  },
+  {
+    "country": "Sweden",
+    "total_cases": "3,069",
+    "new_cases": null,
+    "total_deaths": "105 ",
+    "new_deaths": null,
+    "total_recovered": "16",
+    "active_cases": "2,948",
+    "critical_cases": "214",
+    "total_cases_1m_pop": "304",
+    "total_deaths_1m_pop": "10",
+    "first_case_reported": "Jan 30 "
   },
   {
     "country": "Czechia",
     "total_cases": "2,279",
-    "new_cases": "+354",
+    "new_cases": null,
     "total_deaths": "9 ",
     "new_deaths": null,
     "total_recovered": "11",
     "active_cases": "2,259",
     "critical_cases": "34",
     "total_cases_1m_pop": "213",
-    "total_deaths_1m_pop": "0.8"
+    "total_deaths_1m_pop": "0.8",
+    "first_case_reported": "Feb 29 "
   },
   {
     "country": "Malaysia",
     "total_cases": "2,161",
-    "new_cases": "+130",
+    "new_cases": null,
     "total_deaths": "26 ",
-    "new_deaths": "+3",
+    "new_deaths": null,
     "total_recovered": "259",
     "active_cases": "1,876",
     "critical_cases": "54",
     "total_cases_1m_pop": "67",
-    "total_deaths_1m_pop": "0.8"
+    "total_deaths_1m_pop": "0.8",
+    "first_case_reported": "Jan 24 "
   },
   {
     "country": "Ireland",
     "total_cases": "2,121",
-    "new_cases": "+302",
+    "new_cases": null,
     "total_deaths": "22 ",
-    "new_deaths": "+3",
+    "new_deaths": null,
     "total_recovered": "5",
     "active_cases": "2,094",
-    "critical_cases": "47",
+    "critical_cases": "59",
     "total_cases_1m_pop": "430",
-    "total_deaths_1m_pop": "4"
+    "total_deaths_1m_pop": "4",
+    "first_case_reported": "Feb 28 "
   },
   {
     "country": "Denmark",
     "total_cases": "2,046",
-    "new_cases": "+169",
+    "new_cases": null,
     "total_deaths": "52 ",
-    "new_deaths": "+11",
+    "new_deaths": null,
     "total_recovered": "1",
     "active_cases": "1,993",
     "critical_cases": "109",
     "total_cases_1m_pop": "353",
-    "total_deaths_1m_pop": "9"
+    "total_deaths_1m_pop": "9",
+    "first_case_reported": "Feb 26 "
+  },
+  {
+    "country": "Ecuador",
+    "total_cases": "1,627",
+    "new_cases": null,
+    "total_deaths": "41 ",
+    "new_deaths": null,
+    "total_recovered": "3",
+    "active_cases": "1,583",
+    "critical_cases": "58",
+    "total_cases_1m_pop": "92",
+    "total_deaths_1m_pop": "2",
+    "first_case_reported": "Feb 28 "
   },
   {
     "country": "Chile",
     "total_cases": "1,610",
-    "new_cases": "+304",
+    "new_cases": null,
     "total_deaths": "5 ",
-    "new_deaths": "+1",
+    "new_deaths": null,
     "total_recovered": "43",
     "active_cases": "1,562",
     "critical_cases": "7",
     "total_cases_1m_pop": "84",
-    "total_deaths_1m_pop": "0.3"
+    "total_deaths_1m_pop": "0.3",
+    "first_case_reported": "Mar 02 "
   },
   {
     "country": "Luxembourg",
     "total_cases": "1,605",
-    "new_cases": "+152",
+    "new_cases": null,
     "total_deaths": "15 ",
-    "new_deaths": "+6",
+    "new_deaths": null,
     "total_recovered": "40",
     "active_cases": "1,550",
     "critical_cases": "25",
     "total_cases_1m_pop": "2,564",
-    "total_deaths_1m_pop": "24"
-  },
-  {
-    "country": "Ecuador",
-    "total_cases": "1,595",
-    "new_cases": "+192",
-    "total_deaths": "36 ",
-    "new_deaths": "+2",
-    "total_recovered": "3",
-    "active_cases": "1,556",
-    "critical_cases": "58",
-    "total_cases_1m_pop": "90",
-    "total_deaths_1m_pop": "2"
-  },
-  {
-    "country": "Poland",
-    "total_cases": "1,389",
-    "new_cases": "+168",
-    "total_deaths": "16 ",
-    "new_deaths": null,
-    "total_recovered": "7",
-    "active_cases": "1,366",
-    "critical_cases": "3",
-    "total_cases_1m_pop": "37",
-    "total_deaths_1m_pop": "0.4"
+    "total_deaths_1m_pop": "24",
+    "first_case_reported": "Feb 28 "
   },
   {
     "country": "Japan",
-    "total_cases": "1,387",
+    "total_cases": "1,499",
     "new_cases": null,
-    "total_deaths": "47 ",
+    "total_deaths": "49 ",
     "new_deaths": null,
-    "total_recovered": "359",
-    "active_cases": "981",
-    "critical_cases": "57",
-    "total_cases_1m_pop": "11",
-    "total_deaths_1m_pop": "0.4"
+    "total_recovered": "372",
+    "active_cases": "1,078",
+    "critical_cases": "56",
+    "total_cases_1m_pop": "12",
+    "total_deaths_1m_pop": "0.4",
+    "first_case_reported": "Jan 14 "
+  },
+  {
+    "country": "Poland",
+    "total_cases": "1,436",
+    "new_cases": "+47",
+    "total_deaths": "16 ",
+    "new_deaths": null,
+    "total_recovered": "7",
+    "active_cases": "1,413",
+    "critical_cases": "3",
+    "total_cases_1m_pop": "38",
+    "total_deaths_1m_pop": "0.4",
+    "first_case_reported": "Mar 03 "
   },
   {
     "country": "Pakistan",
-    "total_cases": "1,331",
-    "new_cases": "+130",
-    "total_deaths": "10 ",
-    "new_deaths": "+1",
-    "total_recovered": "23",
-    "active_cases": "1,298",
+    "total_cases": "1,408",
+    "new_cases": "+35",
+    "total_deaths": "11 ",
+    "new_deaths": null,
+    "total_recovered": "25",
+    "active_cases": "1,372",
     "critical_cases": "7",
     "total_cases_1m_pop": "6",
-    "total_deaths_1m_pop": "0.05"
+    "total_deaths_1m_pop": "0.05",
+    "first_case_reported": "Feb 25 "
   },
   {
     "country": "Romania",
     "total_cases": "1,292",
-    "new_cases": "+263",
+    "new_cases": null,
     "total_deaths": "26 ",
-    "new_deaths": "+3",
+    "new_deaths": null,
     "total_recovered": "115",
     "active_cases": "1,151",
     "critical_cases": "32",
     "total_cases_1m_pop": "67",
-    "total_deaths_1m_pop": "1"
+    "total_deaths_1m_pop": "1",
+    "first_case_reported": "Feb 25 "
+  },
+  {
+    "country": "Thailand",
+    "total_cases": "1,245",
+    "new_cases": "+109",
+    "total_deaths": "6 ",
+    "new_deaths": "+1",
+    "total_recovered": "97",
+    "active_cases": "1,142",
+    "critical_cases": "11",
+    "total_cases_1m_pop": "18",
+    "total_deaths_1m_pop": "0.09",
+    "first_case_reported": "Jan 12 "
   },
   {
     "country": "South Africa",
     "total_cases": "1,170",
-    "new_cases": "+243",
+    "new_cases": null,
     "total_deaths": "1 ",
-    "new_deaths": "+1",
-    "total_recovered": "12",
-    "active_cases": "1,157",
+    "new_deaths": null,
+    "total_recovered": "31",
+    "active_cases": "1,138",
     "critical_cases": "7",
     "total_cases_1m_pop": "20",
-    "total_deaths_1m_pop": "0.02"
+    "total_deaths_1m_pop": "0.02",
+    "first_case_reported": "Mar 04 "
   },
   {
-    "country": "Thailand",
-    "total_cases": "1,136",
-    "new_cases": "+91",
-    "total_deaths": "5 ",
-    "new_deaths": "+1",
-    "total_recovered": "97",
-    "active_cases": "1,034",
-    "critical_cases": "11",
-    "total_cases_1m_pop": "16",
-    "total_deaths_1m_pop": "0.07"
+    "country": "Finland",
+    "total_cases": "1,163",
+    "new_cases": "+122",
+    "total_deaths": "7 ",
+    "new_deaths": null,
+    "total_recovered": "10",
+    "active_cases": "1,146",
+    "critical_cases": "32",
+    "total_cases_1m_pop": "210",
+    "total_deaths_1m_pop": "1",
+    "first_case_reported": "Jan 28 "
   },
   {
     "country": "Saudi Arabia",
     "total_cases": "1,104",
-    "new_cases": "+92",
+    "new_cases": null,
     "total_deaths": "3 ",
     "new_deaths": null,
     "total_recovered": "35",
     "active_cases": "1,066",
     "critical_cases": "6",
     "total_cases_1m_pop": "32",
-    "total_deaths_1m_pop": "0.09"
+    "total_deaths_1m_pop": "0.09",
+    "first_case_reported": " Mar 01 "
   },
   {
     "country": "Indonesia",
     "total_cases": "1,046",
-    "new_cases": "+153",
+    "new_cases": null,
     "total_deaths": "87 ",
-    "new_deaths": "+9",
+    "new_deaths": null,
     "total_recovered": "46",
     "active_cases": "913",
     "critical_cases": null,
     "total_cases_1m_pop": "4",
-    "total_deaths_1m_pop": "0.3"
-  },
-  {
-    "country": "Finland",
-    "total_cases": "1,041",
-    "new_cases": "+83",
-    "total_deaths": "7 ",
-    "new_deaths": "+2",
-    "total_recovered": "10",
-    "active_cases": "1,024",
-    "critical_cases": "32",
-    "total_cases_1m_pop": "188",
-    "total_deaths_1m_pop": "1"
+    "total_deaths_1m_pop": "0.3",
+    "first_case_reported": "Mar 01 "
   },
   {
     "country": "Russia",
     "total_cases": "1,036",
-    "new_cases": "+196",
+    "new_cases": null,
     "total_deaths": "4 ",
-    "new_deaths": "+1",
+    "new_deaths": null,
     "total_recovered": "45",
     "active_cases": "987",
     "critical_cases": "8",
     "total_cases_1m_pop": "7",
-    "total_deaths_1m_pop": "0.03"
+    "total_deaths_1m_pop": "0.03",
+    "first_case_reported": "Jan 30 "
   },
   {
     "country": "Greece",
     "total_cases": "966",
-    "new_cases": "+74",
+    "new_cases": null,
     "total_deaths": "28 ",
-    "new_deaths": "+1",
+    "new_deaths": null,
     "total_recovered": "52",
     "active_cases": "886",
     "critical_cases": "66",
     "total_cases_1m_pop": "93",
-    "total_deaths_1m_pop": "3"
+    "total_deaths_1m_pop": "3",
+    "first_case_reported": "Feb 25  "
+  },
+  {
+    "country": "India",
+    "total_cases": "906",
+    "new_cases": "+19",
+    "total_deaths": "20 ",
+    "new_deaths": null,
+    "total_recovered": "83",
+    "active_cases": "803",
+    "critical_cases": null,
+    "total_cases_1m_pop": "0.7",
+    "total_deaths_1m_pop": "0.01",
+    "first_case_reported": "Jan 29 "
   },
   {
     "country": "Iceland",
     "total_cases": "890",
-    "new_cases": "+88",
+    "new_cases": null,
     "total_deaths": "2 ",
     "new_deaths": null,
     "total_recovered": "97",
     "active_cases": "791",
     "critical_cases": "18",
     "total_cases_1m_pop": "2,608",
-    "total_deaths_1m_pop": "6"
-  },
-  {
-    "country": "India",
-    "total_cases": "887",
-    "new_cases": "+160",
-    "total_deaths": "20 ",
-    "new_deaths": null,
-    "total_recovered": "73",
-    "active_cases": "794",
-    "critical_cases": null,
-    "total_cases_1m_pop": "0.6",
-    "total_deaths_1m_pop": "0.01"
+    "total_deaths_1m_pop": "6",
+    "first_case_reported": "Feb 27 "
   },
   {
     "country": "Philippines",
     "total_cases": "803",
-    "new_cases": "+96",
+    "new_cases": null,
     "total_deaths": "54 ",
-    "new_deaths": "+9",
+    "new_deaths": null,
     "total_recovered": "31",
     "active_cases": "718",
     "critical_cases": "1",
     "total_cases_1m_pop": "7",
-    "total_deaths_1m_pop": "0.5"
+    "total_deaths_1m_pop": "0.5",
+    "first_case_reported": "Jan 29  "
+  },
+  {
+    "country": "Panama",
+    "total_cases": "786",
+    "new_cases": null,
+    "total_deaths": "14 ",
+    "new_deaths": null,
+    "total_recovered": "2",
+    "active_cases": "770",
+    "critical_cases": "20",
+    "total_cases_1m_pop": "182",
+    "total_deaths_1m_pop": "3",
+    "first_case_reported": "Mar 09 "
   },
   {
     "country": "Singapore",
     "total_cases": "732",
-    "new_cases": "+49",
+    "new_cases": null,
     "total_deaths": "2 ",
     "new_deaths": null,
     "total_recovered": "183",
     "active_cases": "547",
     "critical_cases": "17",
     "total_cases_1m_pop": "125",
-    "total_deaths_1m_pop": "0.3"
+    "total_deaths_1m_pop": "0.3",
+    "first_case_reported": "Jan 22 "
+  },
+  {
+    "country": "Mexico",
+    "total_cases": "717",
+    "new_cases": "+132",
+    "total_deaths": "12 ",
+    "new_deaths": "+4",
+    "total_recovered": "4",
+    "active_cases": "701",
+    "critical_cases": "1",
+    "total_cases_1m_pop": "6",
+    "total_deaths_1m_pop": "0.09",
+    "first_case_reported": "Feb 27 "
   },
   {
     "country": "Diamond Princess",
@@ -525,643 +581,671 @@
     "active_cases": "105",
     "critical_cases": "15",
     "total_cases_1m_pop": null,
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Feb 04 "
   },
   {
-    "country": "Panama",
-    "total_cases": "674",
-    "new_cases": null,
-    "total_deaths": "9 ",
-    "new_deaths": null,
-    "total_recovered": "2",
-    "active_cases": "663",
-    "critical_cases": "20",
-    "total_cases_1m_pop": "156",
-    "total_deaths_1m_pop": "2"
+    "country": "Argentina",
+    "total_cases": "690",
+    "new_cases": "+101",
+    "total_deaths": "17 ",
+    "new_deaths": "+4",
+    "total_recovered": "72",
+    "active_cases": "601",
+    "critical_cases": null,
+    "total_cases_1m_pop": "15",
+    "total_deaths_1m_pop": "0.4",
+    "first_case_reported": "Mar 02 "
   },
   {
     "country": "Peru",
     "total_cases": "635",
-    "new_cases": "+55",
-    "total_deaths": "9 ",
+    "new_cases": null,
+    "total_deaths": "11 ",
     "new_deaths": null,
     "total_recovered": "16",
-    "active_cases": "610",
-    "critical_cases": "14",
+    "active_cases": "608",
+    "critical_cases": "21",
     "total_cases_1m_pop": "19",
-    "total_deaths_1m_pop": "0.3"
+    "total_deaths_1m_pop": "0.3",
+    "first_case_reported": "Mar 05 "
+  },
+  {
+    "country": "Croatia",
+    "total_cases": "635",
+    "new_cases": "+49",
+    "total_deaths": "4 ",
+    "new_deaths": "+1",
+    "total_recovered": "45",
+    "active_cases": "586",
+    "critical_cases": "14",
+    "total_cases_1m_pop": "155",
+    "total_deaths_1m_pop": "1.0",
+    "first_case_reported": "Feb 24 "
   },
   {
     "country": "Slovenia",
     "total_cases": "632",
-    "new_cases": "+70",
+    "new_cases": null,
     "total_deaths": "9 ",
-    "new_deaths": "+3",
+    "new_deaths": null,
     "total_recovered": "10",
     "active_cases": "613",
     "critical_cases": "14",
     "total_cases_1m_pop": "304",
-    "total_deaths_1m_pop": "4"
-  },
-  {
-    "country": "Argentina",
-    "total_cases": "589",
-    "new_cases": null,
-    "total_deaths": "13 ",
-    "new_deaths": "+1",
-    "total_recovered": "72",
-    "active_cases": "504",
-    "critical_cases": null,
-    "total_cases_1m_pop": "13",
-    "total_deaths_1m_pop": "0.3"
-  },
-  {
-    "country": "Croatia",
-    "total_cases": "586",
-    "new_cases": "+91",
-    "total_deaths": "3 ",
-    "new_deaths": null,
-    "total_recovered": "37",
-    "active_cases": "546",
-    "critical_cases": "14",
-    "total_cases_1m_pop": "143",
-    "total_deaths_1m_pop": "0.7"
-  },
-  {
-    "country": "Mexico",
-    "total_cases": "585",
-    "new_cases": "+110",
-    "total_deaths": "8 ",
-    "new_deaths": "+2",
-    "total_recovered": "4",
-    "active_cases": "573",
-    "critical_cases": "1",
-    "total_cases_1m_pop": "5",
-    "total_deaths_1m_pop": "0.06"
+    "total_deaths_1m_pop": "4",
+    "first_case_reported": "Mar 03 "
   },
   {
     "country": "Dominican Republic",
     "total_cases": "581",
-    "new_cases": "+93",
+    "new_cases": null,
     "total_deaths": "20 ",
-    "new_deaths": "+10",
+    "new_deaths": null,
     "total_recovered": "3",
     "active_cases": "558",
     "critical_cases": null,
     "total_cases_1m_pop": "54",
-    "total_deaths_1m_pop": "2"
+    "total_deaths_1m_pop": "2",
+    "first_case_reported": "Feb 29 "
   },
   {
     "country": "Estonia",
     "total_cases": "575",
-    "new_cases": "+37",
+    "new_cases": null,
     "total_deaths": "1 ",
     "new_deaths": null,
     "total_recovered": "11",
     "active_cases": "563",
     "critical_cases": "7",
     "total_cases_1m_pop": "433",
-    "total_deaths_1m_pop": "0.8"
+    "total_deaths_1m_pop": "0.8",
+    "first_case_reported": "Feb 26 "
   },
   {
     "country": "Qatar",
     "total_cases": "562",
-    "new_cases": "+13",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": "43",
     "active_cases": "519",
     "critical_cases": "6",
     "total_cases_1m_pop": "195",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Feb 28 "
   },
   {
     "country": "Colombia",
     "total_cases": "539",
-    "new_cases": "+48",
+    "new_cases": null,
     "total_deaths": "6 ",
     "new_deaths": null,
     "total_recovered": "10",
     "active_cases": "523",
     "critical_cases": null,
     "total_cases_1m_pop": "11",
-    "total_deaths_1m_pop": "0.1"
+    "total_deaths_1m_pop": "0.1",
+    "first_case_reported": "Mar 05 "
   },
   {
     "country": "Egypt",
     "total_cases": "536",
-    "new_cases": "+41",
+    "new_cases": null,
     "total_deaths": "30 ",
-    "new_deaths": "+6",
+    "new_deaths": null,
     "total_recovered": "116",
     "active_cases": "390",
     "critical_cases": null,
     "total_cases_1m_pop": "5",
-    "total_deaths_1m_pop": "0.3"
+    "total_deaths_1m_pop": "0.3",
+    "first_case_reported": "Feb 13 "
   },
   {
     "country": "Serbia",
     "total_cases": "528",
-    "new_cases": "+71",
+    "new_cases": null,
     "total_deaths": "8 ",
-    "new_deaths": "+1",
+    "new_deaths": null,
     "total_recovered": "42",
     "active_cases": "478",
     "critical_cases": "25",
     "total_cases_1m_pop": "60",
-    "total_deaths_1m_pop": "0.9"
+    "total_deaths_1m_pop": "0.9",
+    "first_case_reported": "Mar 05 "
   },
   {
     "country": "Hong Kong",
-    "total_cases": "518",
-    "new_cases": "+64",
+    "total_cases": "519",
+    "new_cases": null,
     "total_deaths": "4 ",
     "new_deaths": null,
     "total_recovered": "111",
-    "active_cases": "403",
+    "active_cases": "404",
     "critical_cases": "5",
     "total_cases_1m_pop": "69",
-    "total_deaths_1m_pop": "0.5"
+    "total_deaths_1m_pop": "0.5",
+    "first_case_reported": "Jan 22 "
   },
   {
     "country": "Bahrain",
-    "total_cases": "466",
-    "new_cases": "+8",
+    "total_cases": "473",
+    "new_cases": "+7",
     "total_deaths": "4 ",
     "new_deaths": null,
-    "total_recovered": "227",
-    "active_cases": "235",
+    "total_recovered": "254",
+    "active_cases": "215",
     "critical_cases": "1",
-    "total_cases_1m_pop": "274",
-    "total_deaths_1m_pop": "2"
+    "total_cases_1m_pop": "278",
+    "total_deaths_1m_pop": "2",
+    "first_case_reported": "Feb 23 "
   },
   {
     "country": "Iraq",
     "total_cases": "458",
-    "new_cases": "+76",
+    "new_cases": null,
     "total_deaths": "40 ",
-    "new_deaths": "+4",
+    "new_deaths": null,
     "total_recovered": "122",
     "active_cases": "296",
     "critical_cases": null,
     "total_cases_1m_pop": "11",
-    "total_deaths_1m_pop": "1.0"
+    "total_deaths_1m_pop": "1.0",
+    "first_case_reported": "Feb 21 "
+  },
+  {
+    "country": "New Zealand",
+    "total_cases": "451",
+    "new_cases": "+83",
+    "total_deaths": " ",
+    "new_deaths": null,
+    "total_recovered": "50",
+    "active_cases": "401",
+    "critical_cases": "2",
+    "total_cases_1m_pop": "94",
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Feb 27 "
   },
   {
     "country": "Algeria",
     "total_cases": "409",
-    "new_cases": "+42",
-    "total_deaths": "26  ",
-    "new_deaths": "+1",
+    "new_cases": null,
+    "total_deaths": "26 ",
+    "new_deaths": null,
     "total_recovered": "29",
     "active_cases": "354",
     "critical_cases": null,
     "total_cases_1m_pop": "9",
-    "total_deaths_1m_pop": "0.6"
+    "total_deaths_1m_pop": "0.6",
+    "first_case_reported": "Feb 24 "
   },
   {
     "country": "UAE",
     "total_cases": "405",
-    "new_cases": "+72",
+    "new_cases": null,
     "total_deaths": "2 ",
     "new_deaths": null,
     "total_recovered": "52",
     "active_cases": "351",
     "critical_cases": "2",
     "total_cases_1m_pop": "41",
-    "total_deaths_1m_pop": "0.2"
+    "total_deaths_1m_pop": "0.2",
+    "first_case_reported": "Jan 28 "
   },
   {
     "country": "Lebanon",
     "total_cases": "391",
-    "new_cases": "+23",
+    "new_cases": null,
     "total_deaths": "8 ",
-    "new_deaths": "+2",
+    "new_deaths": null,
     "total_recovered": "27",
     "active_cases": "356",
     "critical_cases": "3",
     "total_cases_1m_pop": "57",
-    "total_deaths_1m_pop": "1"
+    "total_deaths_1m_pop": "1",
+    "first_case_reported": "Feb 20 "
   },
   {
-    "country": "New Zealand",
-    "total_cases": "368",
-    "new_cases": null,
-    "total_deaths": " ",
+    "country": "Armenia",
+    "total_cases": "372",
+    "new_cases": "+43",
+    "total_deaths": "1 ",
     "new_deaths": null,
-    "total_recovered": "37",
-    "active_cases": "331",
-    "critical_cases": "1",
-    "total_cases_1m_pop": "76",
-    "total_deaths_1m_pop": null
+    "total_recovered": "28",
+    "active_cases": "343",
+    "critical_cases": "6",
+    "total_cases_1m_pop": "126",
+    "total_deaths_1m_pop": "0.3",
+    "first_case_reported": "Feb 29 "
   },
   {
     "country": "Lithuania",
     "total_cases": "358",
-    "new_cases": "+59",
+    "new_cases": null,
     "total_deaths": "5 ",
-    "new_deaths": "+1",
+    "new_deaths": null,
     "total_recovered": "1",
     "active_cases": "352",
     "critical_cases": "2",
     "total_cases_1m_pop": "132",
-    "total_deaths_1m_pop": "2"
+    "total_deaths_1m_pop": "2",
+    "first_case_reported": "Feb 27 "
   },
   {
     "country": "Morocco",
-    "total_cases": "333",
-    "new_cases": "+58",
-    "total_deaths": "21 ",
-    "new_deaths": "+10",
+    "total_cases": "345",
+    "new_cases": null,
+    "total_deaths": "23 ",
+    "new_deaths": null,
     "total_recovered": "11",
-    "active_cases": "301",
+    "active_cases": "311",
     "critical_cases": "1",
     "total_cases_1m_pop": "9",
-    "total_deaths_1m_pop": "0.6"
-  },
-  {
-    "country": "Armenia",
-    "total_cases": "329",
-    "new_cases": "+39",
-    "total_deaths": "1 ",
-    "new_deaths": null,
-    "total_recovered": "28",
-    "active_cases": "300",
-    "critical_cases": "6",
-    "total_cases_1m_pop": "111",
-    "total_deaths_1m_pop": "0.3"
+    "total_deaths_1m_pop": "0.6",
+    "first_case_reported": "Mar 01 "
   },
   {
     "country": "Hungary",
-    "total_cases": "300",
-    "new_cases": "+39",
-    "total_deaths": "10 ",
-    "new_deaths": null,
+    "total_cases": "343",
+    "new_cases": "+43",
+    "total_deaths": "11 ",
+    "new_deaths": "+1",
     "total_recovered": "34",
-    "active_cases": "256",
+    "active_cases": "298",
     "critical_cases": "6",
-    "total_cases_1m_pop": "31",
-    "total_deaths_1m_pop": "1"
+    "total_cases_1m_pop": "36",
+    "total_deaths_1m_pop": "1",
+    "first_case_reported": "Mar 03 "
   },
   {
     "country": "Bulgaria",
-    "total_cases": "293",
-    "new_cases": "+29",
-    "total_deaths": "3 ",
-    "new_deaths": null,
+    "total_cases": "313",
+    "new_cases": "+20",
+    "total_deaths": "4 ",
+    "new_deaths": "+1",
     "total_recovered": "9",
-    "active_cases": "281",
+    "active_cases": "300",
     "critical_cases": "8",
-    "total_cases_1m_pop": "42",
-    "total_deaths_1m_pop": "0.4"
+    "total_cases_1m_pop": "45",
+    "total_deaths_1m_pop": "0.6",
+    "first_case_reported": "Mar 06 "
+  },
+  {
+    "country": "Ukraine",
+    "total_cases": "310",
+    "new_cases": null,
+    "total_deaths": "5 ",
+    "new_deaths": null,
+    "total_recovered": "5",
+    "active_cases": "300",
+    "critical_cases": null,
+    "total_cases_1m_pop": "7",
+    "total_deaths_1m_pop": "0.1",
+    "first_case_reported": "Mar 02 "
   },
   {
     "country": "Latvia",
     "total_cases": "280",
-    "new_cases": "+36",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": "1",
     "active_cases": "279",
     "critical_cases": null,
     "total_cases_1m_pop": "148",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 01 "
+  },
+  {
+    "country": "Uruguay",
+    "total_cases": "274",
+    "new_cases": "+36",
+    "total_deaths": " ",
+    "new_deaths": null,
+    "total_recovered": null,
+    "active_cases": "274",
+    "critical_cases": "8",
+    "total_cases_1m_pop": "79",
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 12 "
   },
   {
     "country": "Slovakia",
     "total_cases": "269",
-    "new_cases": "+43",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": "2",
     "active_cases": "267",
     "critical_cases": "1",
     "total_cases_1m_pop": "49",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 05 "
   },
   {
     "country": "Andorra",
     "total_cases": "267",
-    "new_cases": "+43",
+    "new_cases": null,
     "total_deaths": "3 ",
     "new_deaths": null,
     "total_recovered": "1",
     "active_cases": "263",
     "critical_cases": "11",
     "total_cases_1m_pop": "3,456",
-    "total_deaths_1m_pop": "39"
+    "total_deaths_1m_pop": "39",
+    "first_case_reported": "Mar 01 "
   },
   {
     "country": "Taiwan",
     "total_cases": "267",
-    "new_cases": "+15",
+    "new_cases": null,
     "total_deaths": "2 ",
     "new_deaths": null,
     "total_recovered": "30",
     "active_cases": "235",
     "critical_cases": null,
     "total_cases_1m_pop": "11",
-    "total_deaths_1m_pop": "0.08"
+    "total_deaths_1m_pop": "0.08",
+    "first_case_reported": "Jan 20 "
   },
   {
     "country": "Costa Rica",
     "total_cases": "263",
-    "new_cases": "+32",
+    "new_cases": null,
     "total_deaths": "2 ",
     "new_deaths": null,
     "total_recovered": "3",
     "active_cases": "258",
     "critical_cases": "5",
     "total_cases_1m_pop": "52",
-    "total_deaths_1m_pop": "0.4"
+    "total_deaths_1m_pop": "0.4",
+    "first_case_reported": "Mar 04 "
   },
   {
-    "country": "Uruguay",
-    "total_cases": "238",
+    "country": "Bosnia and Herzegovina",
+    "total_cases": "237",
     "new_cases": null,
-    "total_deaths": " ",
+    "total_deaths": "4 ",
     "new_deaths": null,
-    "total_recovered": null,
-    "active_cases": "238",
-    "critical_cases": "3",
-    "total_cases_1m_pop": "69",
-    "total_deaths_1m_pop": null
+    "total_recovered": "5",
+    "active_cases": "228",
+    "critical_cases": "1",
+    "total_cases_1m_pop": "72",
+    "total_deaths_1m_pop": "1",
+    "first_case_reported": "Mar 04 "
   },
   {
     "country": "Jordan",
     "total_cases": "235",
-    "new_cases": "+23",
-    "total_deaths": " ",
+    "new_cases": null,
+    "total_deaths": "1 ",
     "new_deaths": null,
     "total_recovered": "18",
-    "active_cases": "217",
+    "active_cases": "216",
     "critical_cases": null,
     "total_cases_1m_pop": "23",
-    "total_deaths_1m_pop": null
-  },
-  {
-    "country": "Bosnia and Herzegovina",
-    "total_cases": "232",
-    "new_cases": "+41",
-    "total_deaths": "4 ",
-    "new_deaths": "+1",
-    "total_recovered": "5",
-    "active_cases": "223",
-    "critical_cases": "1",
-    "total_cases_1m_pop": "71",
-    "total_deaths_1m_pop": "1"
+    "total_deaths_1m_pop": "0.10",
+    "first_case_reported": "Mar 01 "
   },
   {
     "country": "Tunisia",
     "total_cases": "227",
-    "new_cases": "+30",
-    "total_deaths": "6 ",
-    "new_deaths": "+1",
+    "new_cases": null,
+    "total_deaths": "7 ",
+    "new_deaths": null,
     "total_recovered": "2",
-    "active_cases": "219",
+    "active_cases": "218",
     "critical_cases": "10",
     "total_cases_1m_pop": "19",
-    "total_deaths_1m_pop": "0.5"
-  },
-  {
-    "country": "Ukraine",
-    "total_cases": "226",
-    "new_cases": "+30",
-    "total_deaths": "5 ",
-    "new_deaths": null,
-    "total_recovered": "5",
-    "active_cases": "216",
-    "critical_cases": null,
-    "total_cases_1m_pop": "5",
-    "total_deaths_1m_pop": "0.1"
+    "total_deaths_1m_pop": "0.6",
+    "first_case_reported": "Mar 01 "
   },
   {
     "country": "Kuwait",
     "total_cases": "225",
-    "new_cases": "+17",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": "57",
     "active_cases": "168",
     "critical_cases": "11",
     "total_cases_1m_pop": "53",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": " Feb 23 "
   },
   {
     "country": "San Marino",
     "total_cases": "223",
-    "new_cases": "+15",
+    "new_cases": null,
     "total_deaths": "21 ",
     "new_deaths": null,
-    "total_recovered": "4",
-    "active_cases": "198",
-    "critical_cases": "12",
+    "total_recovered": "6",
+    "active_cases": "196",
+    "critical_cases": "15",
     "total_cases_1m_pop": "6,572",
-    "total_deaths_1m_pop": "619"
+    "total_deaths_1m_pop": "619",
+    "first_case_reported": "Feb 26 "
   },
   {
     "country": "North Macedonia",
     "total_cases": "219",
-    "new_cases": "+18",
+    "new_cases": null,
     "total_deaths": "3 ",
     "new_deaths": null,
     "total_recovered": "3",
     "active_cases": "213",
     "critical_cases": "1",
     "total_cases_1m_pop": "105",
-    "total_deaths_1m_pop": "1"
+    "total_deaths_1m_pop": "1",
+    "first_case_reported": "Feb 25 "
   },
   {
     "country": "Moldova",
     "total_cases": "199",
-    "new_cases": "+22",
+    "new_cases": null,
     "total_deaths": "2 ",
-    "new_deaths": "+1",
+    "new_deaths": null,
     "total_recovered": "2",
     "active_cases": "195",
     "critical_cases": "33",
     "total_cases_1m_pop": "49",
-    "total_deaths_1m_pop": "0.5"
+    "total_deaths_1m_pop": "0.5",
+    "first_case_reported": "Mar 06 "
   },
   {
     "country": "Albania",
     "total_cases": "186",
-    "new_cases": "+12",
+    "new_cases": null,
     "total_deaths": "8 ",
-    "new_deaths": "+2",
+    "new_deaths": null,
     "total_recovered": "31",
     "active_cases": "147",
     "critical_cases": "3",
     "total_cases_1m_pop": "65",
-    "total_deaths_1m_pop": "3"
+    "total_deaths_1m_pop": "3",
+    "first_case_reported": "Mar 07 "
   },
   {
     "country": "Burkina Faso",
     "total_cases": "180",
-    "new_cases": "+28",
+    "new_cases": null,
     "total_deaths": "9 ",
-    "new_deaths": "+2",
+    "new_deaths": null,
     "total_recovered": "12",
     "active_cases": "159",
     "critical_cases": null,
     "total_cases_1m_pop": "9",
-    "total_deaths_1m_pop": "0.4"
+    "total_deaths_1m_pop": "0.4",
+    "first_case_reported": "Mar 08 "
+  },
+  {
+    "country": "Vietnam",
+    "total_cases": "169",
+    "new_cases": "+6",
+    "total_deaths": " ",
+    "new_deaths": null,
+    "total_recovered": "20",
+    "active_cases": "149",
+    "critical_cases": "3",
+    "total_cases_1m_pop": "2",
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Jan 22 "
   },
   {
     "country": "Azerbaijan",
     "total_cases": "165",
-    "new_cases": "+43",
+    "new_cases": null,
     "total_deaths": "3 ",
     "new_deaths": null,
     "total_recovered": "15",
     "active_cases": "147",
     "critical_cases": "6",
     "total_cases_1m_pop": "16",
-    "total_deaths_1m_pop": "0.3"
-  },
-  {
-    "country": "Vietnam",
-    "total_cases": "163",
-    "new_cases": "+10",
-    "total_deaths": " ",
-    "new_deaths": null,
-    "total_recovered": "20",
-    "active_cases": "143",
-    "critical_cases": "3",
-    "total_cases_1m_pop": "2",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": "0.3",
+    "first_case_reported": "Feb 27 "
   },
   {
     "country": "Cyprus",
     "total_cases": "162",
-    "new_cases": "+16",
+    "new_cases": null,
     "total_deaths": "5 ",
-    "new_deaths": "+2",
-    "total_recovered": "4",
-    "active_cases": "153",
+    "new_deaths": null,
+    "total_recovered": "15",
+    "active_cases": "142",
     "critical_cases": "3",
     "total_cases_1m_pop": "134",
-    "total_deaths_1m_pop": "4"
+    "total_deaths_1m_pop": "4",
+    "first_case_reported": "Mar 08 "
+  },
+  {
+    "country": "Oman",
+    "total_cases": "152",
+    "new_cases": "+21",
+    "total_deaths": " ",
+    "new_deaths": null,
+    "total_recovered": "23",
+    "active_cases": "129",
+    "critical_cases": null,
+    "total_cases_1m_pop": "30",
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Feb 23 "
   },
   {
     "country": "Kazakhstan",
     "total_cases": "150",
-    "new_cases": "+37",
+    "new_cases": null,
     "total_deaths": "1 ",
     "new_deaths": null,
     "total_recovered": "3",
     "active_cases": "146",
     "critical_cases": null,
     "total_cases_1m_pop": "8",
-    "total_deaths_1m_pop": "0.05"
+    "total_deaths_1m_pop": "0.05",
+    "first_case_reported": "Mar 12 "
   },
   {
     "country": "R\u00e9union",
     "total_cases": "145",
-    "new_cases": "+10",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": "1",
     "active_cases": "144",
     "critical_cases": null,
     "total_cases_1m_pop": "162",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 10 "
   },
   {
     "country": "Faeroe Islands",
     "total_cases": "144",
-    "new_cases": "+4",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": "54",
     "active_cases": "90",
     "critical_cases": "2",
     "total_cases_1m_pop": "2,947",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 03 "
   },
   {
     "country": "Malta",
     "total_cases": "139",
-    "new_cases": "+5",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": "2",
     "active_cases": "137",
     "critical_cases": "1",
     "total_cases_1m_pop": "315",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 06 "
   },
   {
     "country": "Ghana",
     "total_cases": "137",
-    "new_cases": "+5",
+    "new_cases": null,
     "total_deaths": "4 ",
     "new_deaths": null,
     "total_recovered": "2",
     "active_cases": "131",
     "critical_cases": "1",
     "total_cases_1m_pop": "4",
-    "total_deaths_1m_pop": "0.1"
-  },
-  {
-    "country": "Oman",
-    "total_cases": "131",
-    "new_cases": "+22",
-    "total_deaths": " ",
-    "new_deaths": null,
-    "total_recovered": "23",
-    "active_cases": "108",
-    "critical_cases": null,
-    "total_cases_1m_pop": "26",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": "0.1",
+    "first_case_reported": "Mar 11 "
   },
   {
     "country": "Senegal",
     "total_cases": "119",
-    "new_cases": "+14",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": "11",
     "active_cases": "108",
     "critical_cases": null,
     "total_cases_1m_pop": "7",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 01 "
   },
   {
     "country": "Brunei ",
     "total_cases": "115",
-    "new_cases": "+1",
-    "total_deaths": " ",
-    "new_deaths": null,
+    "new_cases": null,
+    "total_deaths": "1 ",
+    "new_deaths": "+1",
     "total_recovered": "11",
-    "active_cases": "104",
+    "active_cases": "103",
     "critical_cases": "1",
     "total_cases_1m_pop": "263",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": "2",
+    "first_case_reported": "Mar 08 "
+  },
+  {
+    "country": "Venezuela",
+    "total_cases": "113",
+    "new_cases": null,
+    "total_deaths": "2 ",
+    "new_deaths": null,
+    "total_recovered": "31",
+    "active_cases": "80",
+    "critical_cases": "2",
+    "total_cases_1m_pop": "4",
+    "total_deaths_1m_pop": "0.07",
+    "first_case_reported": "Mar 12 "
   },
   {
     "country": "Afghanistan",
     "total_cases": "110",
-    "new_cases": "+16",
+    "new_cases": null,
     "total_deaths": "4 ",
     "new_deaths": null,
     "total_recovered": "2",
     "active_cases": "104",
     "critical_cases": null,
     "total_cases_1m_pop": "3",
-    "total_deaths_1m_pop": "0.1"
-  },
-  {
-    "country": "Venezuela",
-    "total_cases": "107",
-    "new_cases": null,
-    "total_deaths": "1 ",
-    "new_deaths": null,
-    "total_recovered": "31",
-    "active_cases": "75",
-    "critical_cases": "2",
-    "total_cases_1m_pop": "4",
-    "total_deaths_1m_pop": "0.04"
+    "total_deaths_1m_pop": "0.1",
+    "first_case_reported": "Feb 23 "
   },
   {
     "country": "Sri Lanka",
@@ -1169,155 +1253,207 @@
     "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
-    "total_recovered": "7",
-    "active_cases": "99",
+    "total_recovered": "9",
+    "active_cases": "97",
     "critical_cases": "5",
     "total_cases_1m_pop": "5",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Jan 26 "
+  },
+  {
+    "country": "Uzbekistan",
+    "total_cases": "104",
+    "new_cases": "+16",
+    "total_deaths": "2 ",
+    "new_deaths": "+1",
+    "total_recovered": "5",
+    "active_cases": "97",
+    "critical_cases": "8",
+    "total_cases_1m_pop": "3",
+    "total_deaths_1m_pop": "0.06",
+    "first_case_reported": "Mar 14 "
   },
   {
     "country": "Ivory Coast",
     "total_cases": "101",
-    "new_cases": "+5",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": "3",
     "active_cases": "98",
     "critical_cases": null,
     "total_cases_1m_pop": "4",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 10 "
   },
   {
     "country": "Cambodia",
     "total_cases": "99",
-    "new_cases": "+1",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
-    "total_recovered": "11",
-    "active_cases": "88",
+    "total_recovered": "13",
+    "active_cases": "86",
     "critical_cases": "1",
     "total_cases_1m_pop": "6",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Jan 26 "
+  },
+  {
+    "country": "Honduras",
+    "total_cases": "95",
+    "new_cases": "+27",
+    "total_deaths": "1 ",
+    "new_deaths": null,
+    "total_recovered": "3",
+    "active_cases": "91",
+    "critical_cases": "4",
+    "total_cases_1m_pop": "10",
+    "total_deaths_1m_pop": "0.1",
+    "first_case_reported": "Mar 10 "
   },
   {
     "country": "Mauritius",
     "total_cases": "94",
-    "new_cases": "+13",
+    "new_cases": null,
     "total_deaths": "2 ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "92",
     "critical_cases": "1",
     "total_cases_1m_pop": "74",
-    "total_deaths_1m_pop": "2"
+    "total_deaths_1m_pop": "2",
+    "first_case_reported": "Mar 17 "
   },
   {
     "country": "Belarus",
     "total_cases": "94",
-    "new_cases": "+8",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": "32",
     "active_cases": "62",
     "critical_cases": "2",
     "total_cases_1m_pop": "10",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Feb 27 "
+  },
+  {
+    "country": "Martinique",
+    "total_cases": "93",
+    "new_cases": null,
+    "total_deaths": "1 ",
+    "new_deaths": null,
+    "total_recovered": null,
+    "active_cases": "92",
+    "critical_cases": "12",
+    "total_cases_1m_pop": "248",
+    "total_deaths_1m_pop": "3",
+    "first_case_reported": "Mar 04 "
+  },
+  {
+    "country": "Cameroon",
+    "total_cases": "91",
+    "new_cases": null,
+    "total_deaths": "2 ",
+    "new_deaths": null,
+    "total_recovered": "2",
+    "active_cases": "87",
+    "critical_cases": null,
+    "total_cases_1m_pop": "3",
+    "total_deaths_1m_pop": "0.08",
+    "first_case_reported": "Mar 05 "
   },
   {
     "country": "Palestine",
     "total_cases": "91",
-    "new_cases": "+5",
+    "new_cases": null,
     "total_deaths": "1 ",
     "new_deaths": null,
     "total_recovered": "17",
     "active_cases": "73",
     "critical_cases": null,
     "total_cases_1m_pop": "18",
-    "total_deaths_1m_pop": "0.2"
-  },
-  {
-    "country": "Cameroon",
-    "total_cases": "88",
-    "new_cases": "+13",
-    "total_deaths": "2 ",
-    "new_deaths": "+1",
-    "total_recovered": "2",
-    "active_cases": "84",
-    "critical_cases": null,
-    "total_cases_1m_pop": "3",
-    "total_deaths_1m_pop": "0.08"
+    "total_deaths_1m_pop": "0.2",
+    "first_case_reported": "Mar 04 "
   },
   {
     "country": "Channel Islands",
     "total_cases": "88",
-    "new_cases": "+22",
+    "new_cases": null,
     "total_deaths": "1 ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "87",
     "critical_cases": null,
     "total_cases_1m_pop": "506",
-    "total_deaths_1m_pop": "6"
-  },
-  {
-    "country": "Uzbekistan",
-    "total_cases": "88",
-    "new_cases": "+13",
-    "total_deaths": "1 ",
-    "new_deaths": "+1",
-    "total_recovered": "5",
-    "active_cases": "82",
-    "critical_cases": "8",
-    "total_cases_1m_pop": "3",
-    "total_deaths_1m_pop": "0.03"
+    "total_deaths_1m_pop": "6",
+    "first_case_reported": "Mar 08 "
   },
   {
     "country": "Georgia",
-    "total_cases": "83",
-    "new_cases": "+4",
+    "total_cases": "85",
+    "new_cases": "+2",
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": "14",
-    "active_cases": "69",
+    "active_cases": "71",
     "critical_cases": "1",
     "total_cases_1m_pop": "21",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Feb 25 "
   },
   {
     "country": "Montenegro",
     "total_cases": "82",
-    "new_cases": "+13",
+    "new_cases": null,
     "total_deaths": "1 ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "81",
     "critical_cases": "1",
     "total_cases_1m_pop": "131",
-    "total_deaths_1m_pop": "2"
+    "total_deaths_1m_pop": "2",
+    "first_case_reported": "Mar 16 "
   },
   {
-    "country": "Martinique",
+    "country": "Nigeria",
     "total_cases": "81",
-    "new_cases": null,
+    "new_cases": "+11",
     "total_deaths": "1 ",
     "new_deaths": null,
-    "total_recovered": null,
-    "active_cases": "80",
-    "critical_cases": "12",
-    "total_cases_1m_pop": "216",
-    "total_deaths_1m_pop": "3"
+    "total_recovered": "3",
+    "active_cases": "77",
+    "critical_cases": null,
+    "total_cases_1m_pop": "0.4",
+    "total_deaths_1m_pop": "0.00",
+    "first_case_reported": "Feb 27 "
   },
   {
     "country": "Cuba",
     "total_cases": "80",
-    "new_cases": "+13",
+    "new_cases": null,
     "total_deaths": "2 ",
     "new_deaths": null,
     "total_recovered": "4",
     "active_cases": "74",
     "critical_cases": "2",
     "total_cases_1m_pop": "7",
-    "total_deaths_1m_pop": "0.2"
+    "total_deaths_1m_pop": "0.2",
+    "first_case_reported": "Mar 10 "
+  },
+  {
+    "country": "Bolivia",
+    "total_cases": "74",
+    "new_cases": "+13",
+    "total_deaths": " ",
+    "new_deaths": null,
+    "total_recovered": null,
+    "active_cases": "74",
+    "critical_cases": null,
+    "total_cases_1m_pop": "6",
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 09 "
   },
   {
     "country": "Guadeloupe",
@@ -1329,67 +1465,47 @@
     "active_cases": "72",
     "critical_cases": "4",
     "total_cases_1m_pop": "182",
-    "total_deaths_1m_pop": "2"
-  },
-  {
-    "country": "Nigeria",
-    "total_cases": "70",
-    "new_cases": "+5",
-    "total_deaths": "1 ",
-    "new_deaths": null,
-    "total_recovered": "3",
-    "active_cases": "66",
-    "critical_cases": null,
-    "total_cases_1m_pop": "0.3",
-    "total_deaths_1m_pop": "0.00"
-  },
-  {
-    "country": "Honduras",
-    "total_cases": "68",
-    "new_cases": "+1",
-    "total_deaths": "1 ",
-    "new_deaths": null,
-    "total_recovered": null,
-    "active_cases": "67",
-    "critical_cases": null,
-    "total_cases_1m_pop": "7",
-    "total_deaths_1m_pop": "0.1"
+    "total_deaths_1m_pop": "2",
+    "first_case_reported": "Mar 12 "
   },
   {
     "country": "Trinidad and Tobago",
     "total_cases": "66",
-    "new_cases": "+1",
+    "new_cases": null,
     "total_deaths": "2 ",
-    "new_deaths": "+1",
+    "new_deaths": null,
     "total_recovered": "1",
     "active_cases": "63",
     "critical_cases": null,
     "total_cases_1m_pop": "47",
-    "total_deaths_1m_pop": "1"
-  },
-  {
-    "country": "Bolivia",
-    "total_cases": "61",
-    "new_cases": null,
-    "total_deaths": " ",
-    "new_deaths": null,
-    "total_recovered": null,
-    "active_cases": "61",
-    "critical_cases": null,
-    "total_cases_1m_pop": "5",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": "1",
+    "first_case_reported": "Mar 11 "
   },
   {
     "country": "Kyrgyzstan",
     "total_cases": "58",
-    "new_cases": "+14",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "58",
     "critical_cases": null,
     "total_cases_1m_pop": "9",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 17 "
+  },
+  {
+    "country": "Paraguay",
+    "total_cases": "56",
+    "new_cases": "+4",
+    "total_deaths": "3 ",
+    "new_deaths": null,
+    "total_recovered": "1",
+    "active_cases": "52",
+    "critical_cases": "1",
+    "total_cases_1m_pop": "8",
+    "total_deaths_1m_pop": "0.4",
+    "first_case_reported": "Mar 06 "
   },
   {
     "country": "Liechtenstein",
@@ -1401,43 +1517,34 @@
     "active_cases": "56",
     "critical_cases": null,
     "total_cases_1m_pop": "1,469",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 02 "
   },
   {
     "country": "Gibraltar",
     "total_cases": "55",
-    "new_cases": "+20",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": "14",
     "active_cases": "41",
     "critical_cases": null,
     "total_cases_1m_pop": "1,632",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 02 "
   },
   {
     "country": "Rwanda",
     "total_cases": "54",
-    "new_cases": "+4",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "54",
     "critical_cases": null,
     "total_cases_1m_pop": "4",
-    "total_deaths_1m_pop": null
-  },
-  {
-    "country": "Paraguay",
-    "total_cases": "52",
-    "new_cases": "+11",
-    "total_deaths": "3 ",
-    "new_deaths": null,
-    "total_recovered": "1",
-    "active_cases": "48",
-    "critical_cases": "1",
-    "total_cases_1m_pop": "7",
-    "total_deaths_1m_pop": "0.4"
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 13 "
   },
   {
     "country": "DRC",
@@ -1449,55 +1556,86 @@
     "active_cases": "46",
     "critical_cases": null,
     "total_cases_1m_pop": "0.6",
-    "total_deaths_1m_pop": "0.03"
+    "total_deaths_1m_pop": "0.03",
+    "first_case_reported": "Mar 09 "
   },
   {
     "country": "Mayotte",
     "total_cases": "50",
-    "new_cases": "+14",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "50",
     "critical_cases": null,
     "total_cases_1m_pop": "183",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 13 "
   },
   {
     "country": "Bangladesh",
     "total_cases": "48",
-    "new_cases": "+4",
+    "new_cases": null,
     "total_deaths": "5 ",
     "new_deaths": null,
-    "total_recovered": "11",
-    "active_cases": "32",
+    "total_recovered": "15",
+    "active_cases": "28",
     "critical_cases": "1",
     "total_cases_1m_pop": "0.3",
-    "total_deaths_1m_pop": "0.03"
+    "total_deaths_1m_pop": "0.03",
+    "first_case_reported": "Mar 07 "
   },
   {
     "country": "Monaco",
     "total_cases": "42",
-    "new_cases": "+9",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": "1",
     "active_cases": "41",
     "critical_cases": null,
     "total_cases_1m_pop": "1,070",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Feb 27 "
   },
   {
     "country": "Macao",
     "total_cases": "34",
-    "new_cases": "+1",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": "10",
     "active_cases": "24",
     "critical_cases": null,
     "total_cases_1m_pop": "52",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Jan 21 "
+  },
+  {
+    "country": "Aruba",
+    "total_cases": "33",
+    "new_cases": null,
+    "total_deaths": " ",
+    "new_deaths": null,
+    "total_recovered": "1",
+    "active_cases": "32",
+    "critical_cases": null,
+    "total_cases_1m_pop": "309",
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 12 "
+  },
+  {
+    "country": "Guatemala",
+    "total_cases": "32",
+    "new_cases": "+4",
+    "total_deaths": "1 ",
+    "new_deaths": null,
+    "total_recovered": "4",
+    "active_cases": "27",
+    "critical_cases": "1",
+    "total_cases_1m_pop": "2",
+    "total_deaths_1m_pop": "0.06",
+    "first_case_reported": "Mar 12 "
   },
   {
     "country": "Kenya",
@@ -1509,7 +1647,21 @@
     "active_cases": "29",
     "critical_cases": "2",
     "total_cases_1m_pop": "0.6",
-    "total_deaths_1m_pop": "0.02"
+    "total_deaths_1m_pop": "0.02",
+    "first_case_reported": "Mar 12 "
+  },
+  {
+    "country": "Jamaica",
+    "total_cases": "30",
+    "new_cases": "+4",
+    "total_deaths": "1  ",
+    "new_deaths": null,
+    "total_recovered": "2",
+    "active_cases": "27",
+    "critical_cases": null,
+    "total_cases_1m_pop": "10",
+    "total_deaths_1m_pop": "0.3",
+    "first_case_reported": "Mar 09 "
   },
   {
     "country": "French Polynesia",
@@ -1521,43 +1673,21 @@
     "active_cases": "30",
     "critical_cases": null,
     "total_cases_1m_pop": "107",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 10 "
   },
   {
     "country": "Isle of Man",
     "total_cases": "29",
-    "new_cases": "+3",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "29",
     "critical_cases": null,
     "total_cases_1m_pop": "341",
-    "total_deaths_1m_pop": null
-  },
-  {
-    "country": "Guatemala",
-    "total_cases": "28",
-    "new_cases": "+3",
-    "total_deaths": "1  ",
-    "new_deaths": null,
-    "total_recovered": "4",
-    "active_cases": "23",
-    "critical_cases": "1",
-    "total_cases_1m_pop": "2",
-    "total_deaths_1m_pop": "0.06"
-  },
-  {
-    "country": "Aruba",
-    "total_cases": "28",
-    "new_cases": null,
-    "total_deaths": " ",
-    "new_deaths": null,
-    "total_recovered": "1",
-    "active_cases": "27",
-    "critical_cases": null,
-    "total_cases_1m_pop": "262",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 18 "
   },
   {
     "country": "French Guiana",
@@ -1569,139 +1699,138 @@
     "active_cases": "22",
     "critical_cases": null,
     "total_cases_1m_pop": "94",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 06 "
   },
   {
-    "country": "Jamaica",
+    "country": "Barbados",
     "total_cases": "26",
     "new_cases": null,
-    "total_deaths": "1 ",
+    "total_deaths": " ",
     "new_deaths": null,
-    "total_recovered": "2",
-    "active_cases": "23",
+    "total_recovered": null,
+    "active_cases": "26",
     "critical_cases": null,
-    "total_cases_1m_pop": "9",
-    "total_deaths_1m_pop": "0.3"
+    "total_cases_1m_pop": "90",
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 16 "
   },
   {
     "country": "Madagascar",
     "total_cases": "26",
-    "new_cases": "+3",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "26",
     "critical_cases": null,
     "total_cases_1m_pop": "0.9",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 19 "
   },
   {
     "country": "Togo",
     "total_cases": "25",
-    "new_cases": "+1",
-    "total_deaths": " ",
+    "new_cases": null,
+    "total_deaths": "1 ",
     "new_deaths": null,
     "total_recovered": "1",
-    "active_cases": "24",
+    "active_cases": "23",
     "critical_cases": null,
     "total_cases_1m_pop": "3",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": "0.1",
+    "first_case_reported": "Mar 05 "
   },
   {
-    "country": "Barbados",
-    "total_cases": "24",
+    "country": "Uganda",
+    "total_cases": "23",
     "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": null,
-    "active_cases": "24",
+    "active_cases": "23",
     "critical_cases": null,
-    "total_cases_1m_pop": "84",
-    "total_deaths_1m_pop": null
+    "total_cases_1m_pop": "0.5",
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 20 "
   },
   {
     "country": "Zambia",
     "total_cases": "22",
-    "new_cases": "+6",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "22",
     "critical_cases": null,
     "total_cases_1m_pop": "1",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 17 "
   },
   {
-    "country": "Uganda",
-    "total_cases": "18",
-    "new_cases": "+4",
+    "country": "El Salvador",
+    "total_cases": "19",
+    "new_cases": "+6",
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": null,
-    "active_cases": "18",
+    "active_cases": "19",
     "critical_cases": null,
-    "total_cases_1m_pop": "0.4",
-    "total_deaths_1m_pop": null
+    "total_cases_1m_pop": "3",
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 18 "
+  },
+  {
+    "country": "Bermuda",
+    "total_cases": "17",
+    "new_cases": null,
+    "total_deaths": " ",
+    "new_deaths": null,
+    "total_recovered": "2",
+    "active_cases": "15",
+    "critical_cases": null,
+    "total_cases_1m_pop": "273",
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 17 "
   },
   {
     "country": "Ethiopia",
     "total_cases": "16",
-    "new_cases": "+4",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "16",
     "critical_cases": null,
     "total_cases_1m_pop": "0.1",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 12 "
   },
   {
     "country": "Maldives",
     "total_cases": "16",
-    "new_cases": "+3",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": "9",
     "active_cases": "7",
     "critical_cases": null,
     "total_cases_1m_pop": "30",
-    "total_deaths_1m_pop": null
-  },
-  {
-    "country": "Bermuda",
-    "total_cases": "15",
-    "new_cases": null,
-    "total_deaths": " ",
-    "new_deaths": null,
-    "total_recovered": "2",
-    "active_cases": "13",
-    "critical_cases": null,
-    "total_cases_1m_pop": "241",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 06 "
   },
   {
     "country": "New Caledonia",
     "total_cases": "15",
-    "new_cases": "+1",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "15",
     "critical_cases": null,
     "total_cases_1m_pop": "53",
-    "total_deaths_1m_pop": null
-  },
-  {
-    "country": "El Salvador",
-    "total_cases": "13",
-    "new_cases": null,
-    "total_deaths": " ",
-    "new_deaths": null,
-    "total_recovered": null,
-    "active_cases": "13",
-    "critical_cases": null,
-    "total_cases_1m_pop": "2",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 17 "
   },
   {
     "country": "Tanzania",
@@ -1713,19 +1842,21 @@
     "active_cases": "12",
     "critical_cases": null,
     "total_cases_1m_pop": "0.2",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 15 "
   },
   {
     "country": "Djibouti",
     "total_cases": "12",
-    "new_cases": "+1",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "12",
     "critical_cases": null,
     "total_cases_1m_pop": "12",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": " Mar 17 "
   },
   {
     "country": "Equatorial Guinea",
@@ -1737,7 +1868,21 @@
     "active_cases": "12",
     "critical_cases": null,
     "total_cases_1m_pop": "9",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 13 "
+  },
+  {
+    "country": "Mongolia",
+    "total_cases": "12",
+    "new_cases": "+1",
+    "total_deaths": " ",
+    "new_deaths": null,
+    "total_recovered": null,
+    "active_cases": "12",
+    "critical_cases": null,
+    "total_cases_1m_pop": "4",
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 09 "
   },
   {
     "country": "Dominica",
@@ -1749,22 +1894,11 @@
     "active_cases": "11",
     "critical_cases": null,
     "total_cases_1m_pop": "153",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 21 "
   },
   {
     "country": "Mali",
-    "total_cases": "11",
-    "new_cases": "+7",
-    "total_deaths": " ",
-    "new_deaths": null,
-    "total_recovered": null,
-    "active_cases": "11",
-    "critical_cases": null,
-    "total_cases_1m_pop": "0.5",
-    "total_deaths_1m_pop": null
-  },
-  {
-    "country": "Mongolia",
     "total_cases": "11",
     "new_cases": null,
     "total_deaths": " ",
@@ -1772,8 +1906,9 @@
     "total_recovered": null,
     "active_cases": "11",
     "critical_cases": null,
-    "total_cases_1m_pop": "3",
-    "total_deaths_1m_pop": null
+    "total_cases_1m_pop": "0.5",
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 24 "
   },
   {
     "country": "Saint Martin",
@@ -1785,7 +1920,8 @@
     "active_cases": "11",
     "critical_cases": null,
     "total_cases_1m_pop": "284",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Feb 29 "
   },
   {
     "country": "Niger",
@@ -1797,43 +1933,47 @@
     "active_cases": "9",
     "critical_cases": null,
     "total_cases_1m_pop": "0.4",
-    "total_deaths_1m_pop": "0.04"
+    "total_deaths_1m_pop": "0.04",
+    "first_case_reported": "Mar 18 "
+  },
+  {
+    "country": "Bahamas",
+    "total_cases": "10",
+    "new_cases": null,
+    "total_deaths": " ",
+    "new_deaths": null,
+    "total_recovered": "1",
+    "active_cases": "9",
+    "critical_cases": null,
+    "total_cases_1m_pop": "25",
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 14 "
   },
   {
     "country": "Greenland",
     "total_cases": "10",
-    "new_cases": "+4",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": "2",
     "active_cases": "8",
     "critical_cases": null,
     "total_cases_1m_pop": "176",
-    "total_deaths_1m_pop": null
-  },
-  {
-    "country": "Bahamas",
-    "total_cases": "9",
-    "new_cases": null,
-    "total_deaths": " ",
-    "new_deaths": null,
-    "total_recovered": "1",
-    "active_cases": "8",
-    "critical_cases": null,
-    "total_cases_1m_pop": "23",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 15 "
   },
   {
     "country": "Eswatini",
     "total_cases": "9",
-    "new_cases": "+3",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "9",
     "critical_cases": null,
     "total_cases_1m_pop": "8",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 13 "
   },
   {
     "country": "Cayman Islands",
@@ -1845,19 +1985,34 @@
     "active_cases": "7",
     "critical_cases": null,
     "total_cases_1m_pop": "122",
-    "total_deaths_1m_pop": "15"
+    "total_deaths_1m_pop": "15",
+    "first_case_reported": "Mar 12 "
+  },
+  {
+    "country": "Cura\u00e7ao",
+    "total_cases": "8",
+    "new_cases": null,
+    "total_deaths": "1 ",
+    "new_deaths": null,
+    "total_recovered": "2",
+    "active_cases": "5",
+    "critical_cases": null,
+    "total_cases_1m_pop": "49",
+    "total_deaths_1m_pop": "6",
+    "first_case_reported": "Mar 12 "
   },
   {
     "country": "Guinea",
     "total_cases": "8",
-    "new_cases": "+4",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "8",
     "critical_cases": null,
     "total_cases_1m_pop": "0.6",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 12 "
   },
   {
     "country": "Haiti",
@@ -1869,19 +2024,21 @@
     "active_cases": "8",
     "critical_cases": null,
     "total_cases_1m_pop": "0.7",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": " Mar 19 "
   },
   {
     "country": "Myanmar",
     "total_cases": "8",
-    "new_cases": "+3",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "8",
     "critical_cases": null,
     "total_cases_1m_pop": "0.1",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 22 "
   },
   {
     "country": "Namibia",
@@ -1893,7 +2050,8 @@
     "active_cases": "6",
     "critical_cases": null,
     "total_cases_1m_pop": "3",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 13 "
   },
   {
     "country": "Suriname",
@@ -1905,19 +2063,8 @@
     "active_cases": "8",
     "critical_cases": null,
     "total_cases_1m_pop": "14",
-    "total_deaths_1m_pop": null
-  },
-  {
-    "country": "Cura\u00e7ao",
-    "total_cases": "7",
-    "new_cases": null,
-    "total_deaths": "1 ",
-    "new_deaths": null,
-    "total_recovered": "2",
-    "active_cases": "4",
-    "critical_cases": null,
-    "total_cases_1m_pop": "43",
-    "total_deaths_1m_pop": "6"
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 12 "
   },
   {
     "country": "Gabon",
@@ -1929,7 +2076,8 @@
     "active_cases": "6",
     "critical_cases": null,
     "total_cases_1m_pop": "3",
-    "total_deaths_1m_pop": "0.4"
+    "total_deaths_1m_pop": "0.4",
+    "first_case_reported": "Mar 12 "
   },
   {
     "country": "Antigua and Barbuda",
@@ -1941,7 +2089,8 @@
     "active_cases": "7",
     "critical_cases": null,
     "total_cases_1m_pop": "71",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 12 "
   },
   {
     "country": "Grenada",
@@ -1953,7 +2102,8 @@
     "active_cases": "7",
     "critical_cases": null,
     "total_cases_1m_pop": "62",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 21 "
   },
   {
     "country": "Mozambique",
@@ -1965,7 +2115,8 @@
     "active_cases": "7",
     "critical_cases": null,
     "total_cases_1m_pop": "0.2",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 21 "
   },
   {
     "country": "Seychelles",
@@ -1977,7 +2128,8 @@
     "active_cases": "7",
     "critical_cases": null,
     "total_cases_1m_pop": "71",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 13 "
   },
   {
     "country": "Benin",
@@ -1989,7 +2141,8 @@
     "active_cases": "6",
     "critical_cases": null,
     "total_cases_1m_pop": "0.5",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 15 "
   },
   {
     "country": "Eritrea",
@@ -2001,7 +2154,8 @@
     "active_cases": "6",
     "critical_cases": null,
     "total_cases_1m_pop": "2",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 20 "
   },
   {
     "country": "Laos",
@@ -2013,7 +2167,8 @@
     "active_cases": "6",
     "critical_cases": null,
     "total_cases_1m_pop": "0.8",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 23 "
   },
   {
     "country": "Cabo Verde",
@@ -2025,7 +2180,8 @@
     "active_cases": "4",
     "critical_cases": null,
     "total_cases_1m_pop": "9",
-    "total_deaths_1m_pop": "2"
+    "total_deaths_1m_pop": "2",
+    "first_case_reported": "Mar 19 "
   },
   {
     "country": "Guyana",
@@ -2037,10 +2193,11 @@
     "active_cases": "4",
     "critical_cases": null,
     "total_cases_1m_pop": "6",
-    "total_deaths_1m_pop": "1"
+    "total_deaths_1m_pop": "1",
+    "first_case_reported": "Mar 11 "
   },
   {
-    "country": "Zimbabwe",
+    "country": "Sudan",
     "total_cases": "5",
     "new_cases": "+2",
     "total_deaths": "1 ",
@@ -2048,8 +2205,22 @@
     "total_recovered": null,
     "active_cases": "4",
     "critical_cases": null,
+    "total_cases_1m_pop": "0.1",
+    "total_deaths_1m_pop": "0.02",
+    "first_case_reported": "Mar 12 "
+  },
+  {
+    "country": "Zimbabwe",
+    "total_cases": "5",
+    "new_cases": null,
+    "total_deaths": "1 ",
+    "new_deaths": null,
+    "total_recovered": null,
+    "active_cases": "4",
+    "critical_cases": null,
     "total_cases_1m_pop": "0.3",
-    "total_deaths_1m_pop": "0.07"
+    "total_deaths_1m_pop": "0.07",
+    "first_case_reported": "Mar 19 "
   },
   {
     "country": "Fiji",
@@ -2061,7 +2232,21 @@
     "active_cases": "5",
     "critical_cases": null,
     "total_cases_1m_pop": "6",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 18 "
+  },
+  {
+    "country": "Mauritania",
+    "total_cases": "5",
+    "new_cases": "+2",
+    "total_deaths": " ",
+    "new_deaths": null,
+    "total_recovered": null,
+    "active_cases": "5",
+    "critical_cases": null,
+    "total_cases_1m_pop": "1",
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 12 "
   },
   {
     "country": "Montserrat",
@@ -2073,19 +2258,21 @@
     "active_cases": "5",
     "critical_cases": null,
     "total_cases_1m_pop": "1,002",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 17 "
   },
   {
     "country": "St. Barth",
     "total_cases": "5",
-    "new_cases": "+2",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "5",
     "critical_cases": null,
     "total_cases_1m_pop": "506",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Feb 29 "
   },
   {
     "country": "Syria",
@@ -2097,19 +2284,34 @@
     "active_cases": "5",
     "critical_cases": null,
     "total_cases_1m_pop": "0.3",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 21 "
+  },
+  {
+    "country": "Nicaragua",
+    "total_cases": "4",
+    "new_cases": null,
+    "total_deaths": "1 ",
+    "new_deaths": null,
+    "total_recovered": null,
+    "active_cases": "3",
+    "critical_cases": null,
+    "total_cases_1m_pop": "0.6",
+    "total_deaths_1m_pop": "0.2",
+    "first_case_reported": "Mar 18 "
   },
   {
     "country": "Nepal",
     "total_cases": "4",
-    "new_cases": "+1",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": "1",
     "active_cases": "3",
     "critical_cases": null,
     "total_cases_1m_pop": "0.1",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Jan 23 "
   },
   {
     "country": "Angola",
@@ -2121,7 +2323,8 @@
     "active_cases": "4",
     "critical_cases": null,
     "total_cases_1m_pop": "0.1",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 19 "
   },
   {
     "country": "Congo",
@@ -2133,7 +2336,8 @@
     "active_cases": "4",
     "critical_cases": null,
     "total_cases_1m_pop": "0.7",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 14 "
   },
   {
     "country": "Vatican City",
@@ -2145,7 +2349,8 @@
     "active_cases": "4",
     "critical_cases": null,
     "total_cases_1m_pop": "4,994",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 05 "
   },
   {
     "country": "Gambia",
@@ -2157,31 +2362,21 @@
     "active_cases": "2",
     "critical_cases": null,
     "total_cases_1m_pop": "1",
-    "total_deaths_1m_pop": "0.4"
-  },
-  {
-    "country": "Sudan",
-    "total_cases": "3",
-    "new_cases": null,
-    "total_deaths": "1 ",
-    "new_deaths": null,
-    "total_recovered": null,
-    "active_cases": "2",
-    "critical_cases": null,
-    "total_cases_1m_pop": "0.07",
-    "total_deaths_1m_pop": "0.02"
+    "total_deaths_1m_pop": "0.4",
+    "first_case_reported": "Mar 16 "
   },
   {
     "country": "Bhutan",
     "total_cases": "3",
-    "new_cases": "+1",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "3",
     "critical_cases": null,
     "total_cases_1m_pop": "4",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 05 "
   },
   {
     "country": "CAR",
@@ -2193,7 +2388,8 @@
     "active_cases": "3",
     "critical_cases": null,
     "total_cases_1m_pop": "0.6",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 14 "
   },
   {
     "country": "Chad",
@@ -2205,7 +2401,8 @@
     "active_cases": "3",
     "critical_cases": null,
     "total_cases_1m_pop": "0.2",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 18 "
   },
   {
     "country": "Liberia",
@@ -2217,19 +2414,8 @@
     "active_cases": "3",
     "critical_cases": null,
     "total_cases_1m_pop": "0.6",
-    "total_deaths_1m_pop": null
-  },
-  {
-    "country": "Mauritania",
-    "total_cases": "3",
-    "new_cases": null,
-    "total_deaths": " ",
-    "new_deaths": null,
-    "total_recovered": null,
-    "active_cases": "3",
-    "critical_cases": null,
-    "total_cases_1m_pop": "0.6",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 15 "
   },
   {
     "country": "Saint Lucia",
@@ -2241,7 +2427,8 @@
     "active_cases": "2",
     "critical_cases": null,
     "total_cases_1m_pop": "16",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 12 "
   },
   {
     "country": "Sint Maarten",
@@ -2253,31 +2440,34 @@
     "active_cases": "3",
     "critical_cases": null,
     "total_cases_1m_pop": "70",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 17 "
   },
   {
     "country": "Somalia",
     "total_cases": "3",
-    "new_cases": "+1",
+    "new_cases": null,
     "total_deaths": " ",
     "new_deaths": null,
     "total_recovered": null,
     "active_cases": "3",
     "critical_cases": null,
     "total_cases_1m_pop": "0.2",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 15 "
   },
   {
-    "country": "Nicaragua",
+    "country": "MS Zaandam",
     "total_cases": "2",
     "new_cases": null,
-    "total_deaths": "1 ",
-    "new_deaths": "+1",
+    "total_deaths": " ",
+    "new_deaths": null,
     "total_recovered": null,
-    "active_cases": "1",
+    "active_cases": "2",
     "critical_cases": null,
-    "total_cases_1m_pop": "0.3",
-    "total_deaths_1m_pop": "0.2"
+    "total_cases_1m_pop": null,
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 26 "
   },
   {
     "country": "Anguilla",
@@ -2289,7 +2479,8 @@
     "active_cases": "2",
     "critical_cases": null,
     "total_cases_1m_pop": "133",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 25 "
   },
   {
     "country": "Belize",
@@ -2301,7 +2492,8 @@
     "active_cases": "2",
     "critical_cases": null,
     "total_cases_1m_pop": "5",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 22 "
   },
   {
     "country": "British Virgin Islands",
@@ -2313,7 +2505,8 @@
     "active_cases": "2",
     "critical_cases": null,
     "total_cases_1m_pop": "66",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 24 "
   },
   {
     "country": "Guinea-Bissau",
@@ -2325,7 +2518,8 @@
     "active_cases": "2",
     "critical_cases": null,
     "total_cases_1m_pop": "1",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 24 "
   },
   {
     "country": "Saint Kitts and Nevis",
@@ -2337,7 +2531,8 @@
     "active_cases": "2",
     "critical_cases": null,
     "total_cases_1m_pop": "38",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 24 "
   },
   {
     "country": "Turks and Caicos",
@@ -2349,7 +2544,8 @@
     "active_cases": "2",
     "critical_cases": null,
     "total_cases_1m_pop": "52",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 22 "
   },
   {
     "country": "Libya",
@@ -2361,7 +2557,8 @@
     "active_cases": "1",
     "critical_cases": null,
     "total_cases_1m_pop": "0.1",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 23 "
   },
   {
     "country": "Papua New Guinea",
@@ -2373,7 +2570,8 @@
     "active_cases": "1",
     "critical_cases": null,
     "total_cases_1m_pop": "0.1",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 19 "
   },
   {
     "country": "St. Vincent Grenadines",
@@ -2385,7 +2583,8 @@
     "active_cases": "1",
     "critical_cases": null,
     "total_cases_1m_pop": "9",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 10 "
   },
   {
     "country": "Timor-Leste",
@@ -2397,6 +2596,20 @@
     "active_cases": "1",
     "critical_cases": null,
     "total_cases_1m_pop": "0.8",
-    "total_deaths_1m_pop": null
+    "total_deaths_1m_pop": null,
+    "first_case_reported": "Mar 20 "
+  },
+  {
+    "country": "China",
+    "total_cases": "81,394",
+    "new_cases": "+54",
+    "total_deaths": "3,295 ",
+    "new_deaths": "+3",
+    "total_recovered": "74,971",
+    "active_cases": "3,128",
+    "critical_cases": "886",
+    "total_cases_1m_pop": "57",
+    "total_deaths_1m_pop": "2",
+    "first_case_reported": "Jan 10 "
   }
 ]

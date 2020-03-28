@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-
+# FUNCTION TO FETCH DATA FROM URL
 def fetchUrlContent(url):
 
     # GRABBING CONTENT FROM URL
@@ -20,11 +20,15 @@ def fetchUrlContent(url):
     # FINDING TABLE BODY
     table_body = get_stats_table.find("tbody")
 
+    # LIST OF DICTIONARIES TO COLLECT DATA OF EACH COUNTRY
     coronaData = []
 
     # GETTING ROWS OF THE TABLE
     for row in table_body.find_all('tr'):
+
+        # COLLECTING ALL TABLE-DATA-CELLS FROM TABLE-ROWS
         cells = row.findAll('td')
+
         # CREATING DICTIONARY OF EACH COUNTRY SEPARATELY
         data = {
             'country': cells[0].string,
@@ -37,6 +41,7 @@ def fetchUrlContent(url):
             'critical_cases': cells[7].string,
             'total_cases_1m_pop': cells[8].string,
             'total_deaths_1m_pop': cells[9].string,
+            'first_case_reported': cells[10].string.replace("\n", ""),
         }
 
         # APPENDING DICTIONARY TO LIST OF CORONA DATA
@@ -49,5 +54,6 @@ def fetchUrlContent(url):
     # WRITING JSON DATA TO FILE
     with open("dataset.json", "w") as outfile:
         outfile.write(json_formatted_str)
+
 
 fetchUrlContent("https://www.worldometers.info/coronavirus/#countries")

@@ -1,0 +1,1787 @@
+[
+	{
+		"#": "1",
+		"LAT": "33.939109999999999",
+		"LONG": "67.709952999999999",
+		"NAME": "Afghanistan",
+		"STATUS": "infected"
+	},
+	{
+		"#": "2",
+		"LAT": "41.153331999999999",
+		"LONG": "20.168330999999998",
+		"NAME": "Albania",
+		"STATUS": "infected"
+	},
+	{
+		"#": "3",
+		"LAT": "28.033885999999999",
+		"LONG": "1.659626",
+		"NAME": "Algeria",
+		"STATUS": "infected"
+	},
+	{
+		"#": "4",
+		"LAT": "-14.270972",
+		"LONG": "-170.132217",
+		"NAME": "American Samoa",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "5",
+		"LAT": "42.546244999999999",
+		"LONG": "1.6015539999999999",
+		"NAME": "Andorra",
+		"STATUS": "infected"
+	},
+	{
+		"#": "6",
+		"LAT": "-11.202692000000001",
+		"LONG": "17.873887",
+		"NAME": "Angola",
+		"STATUS": "infected"
+	},
+	{
+		"#": "7",
+		"LAT": "18.220554",
+		"LONG": "-63.068615000000001",
+		"NAME": "Anguilla",
+		"STATUS": "infected"
+	},
+	{
+		"#": "8",
+		"LAT": "-75.250973000000002",
+		"LONG": "-7.1388999999999994E-2",
+		"NAME": "Antarctica",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "9",
+		"LAT": "17.060815999999999",
+		"LONG": "-61.796427999999999",
+		"NAME": "Antigua and Barbuda",
+		"STATUS": "infected"
+	},
+	{
+		"#": "10",
+		"LAT": "-38.416097000000001",
+		"LONG": "-63.616672000000001",
+		"NAME": "Argentina",
+		"STATUS": "infected"
+	},
+	{
+		"#": "11",
+		"LAT": "40.069099000000001",
+		"LONG": "45.038189000000003",
+		"NAME": "Armenia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "12",
+		"LAT": "12.52111",
+		"LONG": "-69.968338000000003",
+		"NAME": "Aruba",
+		"STATUS": "infected"
+	},
+	{
+		"#": "13",
+		"LAT": "-25.274398000000001",
+		"LONG": "133.775136",
+		"NAME": "Australia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "14",
+		"LAT": "47.516230999999998",
+		"LONG": "14.550072",
+		"NAME": "Austria",
+		"STATUS": "infected"
+	},
+	{
+		"#": "15",
+		"LAT": "40.143104999999998",
+		"LONG": "47.576926999999998",
+		"NAME": "Azerbaijan",
+		"STATUS": "infected"
+	},
+	{
+		"#": "16",
+		"LAT": "25.034279999999999",
+		"LONG": "-77.396280000000004",
+		"NAME": "Bahamas",
+		"STATUS": "infected"
+	},
+	{
+		"#": "17",
+		"LAT": "25.930413999999999",
+		"LONG": "50.637771999999998",
+		"NAME": "Bahrain",
+		"STATUS": "infected"
+	},
+	{
+		"#": "18",
+		"LAT": "23.684994",
+		"LONG": "90.356330999999997",
+		"NAME": "Bangladesh",
+		"STATUS": "infected"
+	},
+	{
+		"#": "19",
+		"LAT": "13.193887",
+		"LONG": "-59.543197999999997",
+		"NAME": "Barbados",
+		"STATUS": "infected"
+	},
+	{
+		"#": "20",
+		"LAT": "53.709806999999998",
+		"LONG": "27.953389000000001",
+		"NAME": "Belarus",
+		"STATUS": "infected"
+	},
+	{
+		"#": "21",
+		"LAT": "50.503886999999999",
+		"LONG": "4.4699359999999997",
+		"NAME": "Belgium",
+		"STATUS": "infected"
+	},
+	{
+		"#": "22",
+		"LAT": "17.189876999999999",
+		"LONG": "-88.497649999999993",
+		"NAME": "Belize",
+		"STATUS": "infected"
+	},
+	{
+		"#": "23",
+		"LAT": "9.3076899999999991",
+		"LONG": "2.3158340000000002",
+		"NAME": "Benin",
+		"STATUS": "infected"
+	},
+	{
+		"#": "24",
+		"LAT": "32.321384000000002",
+		"LONG": "-64.757369999999995",
+		"NAME": "Bermuda",
+		"STATUS": "infected"
+	},
+	{
+		"#": "25",
+		"LAT": "27.514161999999999",
+		"LONG": "90.433600999999996",
+		"NAME": "Bhutan",
+		"STATUS": "infected"
+	},
+	{
+		"#": "26",
+		"LAT": "-16.290154000000001",
+		"LONG": "-63.588653000000001",
+		"NAME": "Bolivia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "27",
+		"LAT": "43.915886",
+		"LONG": "17.679075999999998",
+		"NAME": "Bosnia and Herzegovina",
+		"STATUS": "infected"
+	},
+	{
+		"#": "28",
+		"LAT": "-22.328474",
+		"LONG": "24.684866",
+		"NAME": "Botswana",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "29",
+		"LAT": "-54.423198999999997",
+		"LONG": "3.4131939999999998",
+		"NAME": "Bouvet Island",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "30",
+		"LAT": "-14.235004",
+		"LONG": "-51.925280000000001",
+		"NAME": "Brazil",
+		"STATUS": "infected"
+	},
+	{
+		"#": "31",
+		"LAT": "-6.3431940000000004",
+		"LONG": "71.876519000000002",
+		"NAME": "British Indian Ocean Territory",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "32",
+		"LAT": "18.420694999999998",
+		"LONG": "-64.639967999999996",
+		"NAME": "British Virgin Islands",
+		"STATUS": "infected"
+	},
+	{
+		"#": "33",
+		"LAT": "4.5352769999999998",
+		"LONG": "114.72766900000001",
+		"NAME": "Brunei",
+		"STATUS": "infected"
+	},
+	{
+		"#": "34",
+		"LAT": "42.733882999999999",
+		"LONG": "25.48583",
+		"NAME": "Bulgaria",
+		"STATUS": "infected"
+	},
+	{
+		"#": "35",
+		"LAT": "12.238333000000001",
+		"LONG": "-1.561593",
+		"NAME": "Burkina Faso",
+		"STATUS": "infected"
+	},
+	{
+		"#": "36",
+		"LAT": "-3.3730560000000001",
+		"LONG": "29.918886000000001",
+		"NAME": "Burundi",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "37",
+		"LAT": "16.002082000000001",
+		"LONG": "-24.013197000000002",
+		"NAME": "Cabo Verde",
+		"STATUS": "infected"
+	},
+	{
+		"#": "38",
+		"LAT": "12.565678999999999",
+		"LONG": "104.99096299999999",
+		"NAME": "Cambodia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "39",
+		"LAT": "7.3697220000000003",
+		"LONG": "12.354722000000001",
+		"NAME": "Cameroon",
+		"STATUS": "infected"
+	},
+	{
+		"#": "40",
+		"LAT": "56.130366000000002",
+		"LONG": "-106.346771",
+		"NAME": "Canada",
+		"STATUS": "infected"
+	},
+	{
+		"#": "41",
+		"LAT": "19.513469000000001",
+		"LONG": "-80.566956000000005",
+		"NAME": "Cayman Islands",
+		"STATUS": "infected"
+	},
+	{
+		"#": "42",
+		"LAT": "6.6111110000000002",
+		"LONG": "20.939444000000002",
+		"NAME": "Central African Republic",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "43",
+		"LAT": "15.454166000000001",
+		"LONG": "18.732206999999999",
+		"NAME": "Chad",
+		"STATUS": "infected"
+	},
+	{
+		"#": "44",
+		"LAT": "49.214438999999999",
+		"LONG": " -2.131250",
+		"NAME": "Channel Islands",
+		"STATUS": "infected"
+	},
+	{
+		"#": "45",
+		"LAT": "-35.675147000000003",
+		"LONG": "-71.542968999999999",
+		"NAME": "Chile",
+		"STATUS": "infected"
+	},
+	{
+		"#": "46",
+		"LAT": "35.861660000000001",
+		"LONG": "104.195397",
+		"NAME": "China",
+		"STATUS": "infected"
+	},
+	{
+		"#": "47",
+		"LAT": "-10.447525000000001",
+		"LONG": "105.690449",
+		"NAME": "Christmas Island",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "48",
+		"LAT": "-12.164165000000001",
+		"LONG": "96.870956000000007",
+		"NAME": "Cocos [Keeling] Islands",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "49",
+		"LAT": "4.5708679999999999",
+		"LONG": "-74.297332999999995",
+		"NAME": "Colombia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "50",
+		"LAT": "-11.875000999999999",
+		"LONG": "43.872219000000001",
+		"NAME": "Comoros",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "51",
+		"LAT": "-0.228021",
+		"LONG": "15.827659000000001",
+		"NAME": "Congo",
+		"STATUS": "infected"
+	},
+	{
+		"#": "52",
+		"LAT": "-4.0383329999999997",
+		"LONG": "21.758664",
+		"NAME": "Congo [DRC]",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "53",
+		"LAT": "-21.236736000000001",
+		"LONG": "-159.777671",
+		"NAME": "Cook Islands",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "54",
+		"LAT": "9.7489170000000005",
+		"LONG": "-83.753428",
+		"NAME": "Costa Rica",
+		"STATUS": "infected"
+	},
+	{
+		"#": "55",
+		"LAT": "7.5399890000000003",
+		"LONG": "-5.5470800000000002",
+		"NAME": "Côte d'Ivoire",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "56",
+		"LAT": "45.1",
+		"LONG": "15.2",
+		"NAME": "Croatia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "57",
+		"LAT": "21.521757000000001",
+		"LONG": "-77.781166999999996",
+		"NAME": "Cuba",
+		"STATUS": "infected"
+	},
+	{
+		"#": "58",
+		"LAT": "12.16957",
+		"LONG": "-68.990020999999999",
+		"NAME": "Curaçao",
+		"STATUS": "infected"
+	},
+	{
+		"#": "59",
+		"LAT": "35.126412999999999",
+		"LONG": "33.429859",
+		"NAME": "Cyprus",
+		"STATUS": "infected"
+	},
+	{
+		"#": "60",
+		"LAT": "49.817492000000001",
+		"LONG": "15.472962000000001",
+		"NAME": "Czechia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "61",
+		"LAT": "56.263919999999999",
+		"LONG": "9.5017849999999999",
+		"NAME": "Denmark",
+		"STATUS": "infected"
+	},
+	{
+		"#": "62",
+		"LAT": "35.414583",
+		"LONG": "139.68205",
+		"NAME": "Diamond Princess",
+		"STATUS": "infected"
+	},
+	{
+		"#": "63",
+		"LAT": "11.825138000000001",
+		"LONG": "42.590274999999998",
+		"NAME": "Djibouti",
+		"STATUS": "infected"
+	},
+	{
+		"#": "64",
+		"LAT": "15.414999",
+		"LONG": "-61.370975999999999",
+		"NAME": "Dominica",
+		"STATUS": "infected"
+	},
+	{
+		"#": "65",
+		"LAT": "18.735693000000001",
+		"LONG": "-70.162650999999997",
+		"NAME": "Dominican Republic",
+		"STATUS": "infected"
+	},
+	{
+		"#": "66",
+		"LAT": "-4.3224470000000004",
+		"LONG": "15.307045",
+		"NAME": "DRC",
+		"STATUS": "infected"
+	},
+	{
+		"#": "67",
+		"LAT": "-1.8312390000000001",
+		"LONG": "-78.183406000000005",
+		"NAME": "Ecuador",
+		"STATUS": "infected"
+	},
+	{
+		"#": "68",
+		"LAT": "26.820553",
+		"LONG": "30.802498",
+		"NAME": "Egypt",
+		"STATUS": "infected"
+	},
+	{
+		"#": "69",
+		"LAT": "13.794185000000001",
+		"LONG": "-88.896529999999998",
+		"NAME": "El Salvador",
+		"STATUS": "infected"
+	},
+	{
+		"#": "70",
+		"LAT": "1.650801",
+		"LONG": "10.267894999999999",
+		"NAME": "Equatorial Guinea",
+		"STATUS": "infected"
+	},
+	{
+		"#": "71",
+		"LAT": "15.179384000000001",
+		"LONG": "39.782333999999999",
+		"NAME": "Eritrea",
+		"STATUS": "infected"
+	},
+	{
+		"#": "72",
+		"LAT": "58.595272000000001",
+		"LONG": "25.013607",
+		"NAME": "Estonia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "73",
+		"LAT": "26.5245587",
+		"LONG": "31.5769202",
+		"NAME": "Eswatini",
+		"STATUS": "infected"
+	},
+	{
+		"#": "74",
+		"LAT": "9.1449999999999996",
+		"LONG": "40.489673000000003",
+		"NAME": "Ethiopia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "75",
+		"LAT": "61.892634999999999",
+		"LONG": "-6.9118060000000003",
+		"NAME": "Faeroe Islands",
+		"STATUS": "infected"
+	},
+	{
+		"#": "76",
+		"LAT": "-51.796253",
+		"LONG": "-59.523612999999997",
+		"NAME": "Falkland Islands [Islas Malvinas]",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "77",
+		"LAT": "-16.578192999999999",
+		"LONG": "179.414413",
+		"NAME": "Fiji",
+		"STATUS": "infected"
+	},
+	{
+		"#": "78",
+		"LAT": "61.924109999999999",
+		"LONG": "25.748151",
+		"NAME": "Finland",
+		"STATUS": "infected"
+	},
+	{
+		"#": "79",
+		"LAT": "46.227637999999999",
+		"LONG": "2.213749",
+		"NAME": "France",
+		"STATUS": "infected"
+	},
+	{
+		"#": "80",
+		"LAT": "3.9338890000000002",
+		"LONG": "-53.125782000000001",
+		"NAME": "French Guiana",
+		"STATUS": "infected"
+	},
+	{
+		"#": "81",
+		"LAT": "-17.679742000000001",
+		"LONG": "-149.40684300000001",
+		"NAME": "French Polynesia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "82",
+		"LAT": "-49.280366000000001",
+		"LONG": "69.348557",
+		"NAME": "French Southern Territories",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "83",
+		"LAT": "-0.80368899999999999",
+		"LONG": "11.609444",
+		"NAME": "Gabon",
+		"STATUS": "infected"
+	},
+	{
+		"#": "84",
+		"LAT": "13.443182",
+		"LONG": "-15.310138999999999",
+		"NAME": "Gambia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "85",
+		"LAT": "31.354676000000001",
+		"LONG": "34.308824999999999",
+		"NAME": "Gaza Strip",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "86",
+		"LAT": "42.315407",
+		"LONG": "43.356892000000002",
+		"NAME": "Georgia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "87",
+		"LAT": "51.165691000000002",
+		"LONG": "10.451525999999999",
+		"NAME": "Germany",
+		"STATUS": "infected"
+	},
+	{
+		"#": "88",
+		"LAT": "7.9465269999999997",
+		"LONG": "-1.0231939999999999",
+		"NAME": "Ghana",
+		"STATUS": "infected"
+	},
+	{
+		"#": "89",
+		"LAT": "36.137740999999998",
+		"LONG": "-5.3453739999999996",
+		"NAME": "Gibraltar",
+		"STATUS": "infected"
+	},
+	{
+		"#": "90",
+		"LAT": "39.074207999999999",
+		"LONG": "21.824311999999999",
+		"NAME": "Greece",
+		"STATUS": "infected"
+	},
+	{
+		"#": "91",
+		"LAT": "71.706935999999999",
+		"LONG": "-42.604303000000002",
+		"NAME": "Greenland",
+		"STATUS": "infected"
+	},
+	{
+		"#": "92",
+		"LAT": "12.262776000000001",
+		"LONG": "-61.604171000000001",
+		"NAME": "Grenada",
+		"STATUS": "infected"
+	},
+	{
+		"#": "93",
+		"LAT": "16.995971000000001",
+		"LONG": "-62.067641000000002",
+		"NAME": "Guadeloupe",
+		"STATUS": "infected"
+	},
+	{
+		"#": "94",
+		"LAT": "13.444304000000001",
+		"LONG": "144.79373100000001",
+		"NAME": "Guam",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "95",
+		"LAT": "15.783471",
+		"LONG": "-90.230759000000006",
+		"NAME": "Guatemala",
+		"STATUS": "infected"
+	},
+	{
+		"#": "96",
+		"LAT": "49.465691",
+		"LONG": "-2.5852780000000002",
+		"NAME": "Guernsey",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "97",
+		"LAT": "9.9455869999999997",
+		"LONG": "-9.6966450000000002",
+		"NAME": "Guinea",
+		"STATUS": "infected"
+	},
+	{
+		"#": "98",
+		"LAT": "11.803749",
+		"LONG": "-15.180413",
+		"NAME": "Guinea-Bissau",
+		"STATUS": "infected"
+	},
+	{
+		"#": "99",
+		"LAT": "4.8604159999999998",
+		"LONG": "-58.93018",
+		"NAME": "Guyana",
+		"STATUS": "infected"
+	},
+	{
+		"#": "100",
+		"LAT": "18.971187",
+		"LONG": "-72.285214999999994",
+		"NAME": "Haiti",
+		"STATUS": "infected"
+	},
+	{
+		"#": "101",
+		"LAT": "-53.081809999999997",
+		"LONG": "73.504158000000004",
+		"NAME": "Heard Island and McDonald Islands",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "102",
+		"LAT": "15.199999",
+		"LONG": "-86.241905000000003",
+		"NAME": "Honduras",
+		"STATUS": "infected"
+	},
+	{
+		"#": "103",
+		"LAT": "22.396428",
+		"LONG": "114.109497",
+		"NAME": "Hong Kong",
+		"STATUS": "infected"
+	},
+	{
+		"#": "104",
+		"LAT": "47.162494000000002",
+		"LONG": "19.503304",
+		"NAME": "Hungary",
+		"STATUS": "infected"
+	},
+	{
+		"#": "105",
+		"LAT": "64.963050999999993",
+		"LONG": "-19.020835000000002",
+		"NAME": "Iceland",
+		"STATUS": "infected"
+	},
+	{
+		"#": "106",
+		"LAT": "20.593684",
+		"LONG": "78.962879999999998",
+		"NAME": "India",
+		"STATUS": "infected"
+	},
+	{
+		"#": "107",
+		"LAT": "-0.78927499999999995",
+		"LONG": "113.92132700000001",
+		"NAME": "Indonesia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "108",
+		"LAT": "32.427908000000002",
+		"LONG": "53.688046",
+		"NAME": "Iran",
+		"STATUS": "infected"
+	},
+	{
+		"#": "109",
+		"LAT": "33.223191",
+		"LONG": "43.679290999999999",
+		"NAME": "Iraq",
+		"STATUS": "infected"
+	},
+	{
+		"#": "110",
+		"LAT": "53.412909999999997",
+		"LONG": "-8.2438900000000004",
+		"NAME": "Ireland",
+		"STATUS": "infected"
+	},
+	{
+		"#": "111",
+		"LAT": "54.236106999999997",
+		"LONG": "-4.5480559999999999",
+		"NAME": "Isle of Man",
+		"STATUS": "infected"
+	},
+	{
+		"#": "112",
+		"LAT": "31.046050999999999",
+		"LONG": "34.851612000000003",
+		"NAME": "Israel",
+		"STATUS": "infected"
+	},
+	{
+		"#": "113",
+		"LAT": "41.871940000000002",
+		"LONG": "12.56738",
+		"NAME": "Italy",
+		"STATUS": "infected"
+	},
+	{
+		"#": "114",
+		"LAT": "7.4662967",
+		"LONG": "-7.7921376000000002",
+		"NAME": "Ivory Coast",
+		"STATUS": "infected"
+	},
+	{
+		"#": "115",
+		"LAT": "18.109580999999999",
+		"LONG": "-77.297507999999993",
+		"NAME": "Jamaica",
+		"STATUS": "infected"
+	},
+	{
+		"#": "116",
+		"LAT": "36.204824000000002",
+		"LONG": "138.25292400000001",
+		"NAME": "Japan",
+		"STATUS": "infected"
+	},
+	{
+		"#": "117",
+		"LAT": "49.214438999999999",
+		"LONG": "-2.1312500000000001",
+		"NAME": "Jersey",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "118",
+		"LAT": "30.585163999999999",
+		"LONG": "36.238413999999999",
+		"NAME": "Jordan",
+		"STATUS": "infected"
+	},
+	{
+		"#": "119",
+		"LAT": "48.019573000000001",
+		"LONG": "66.923683999999994",
+		"NAME": "Kazakhstan",
+		"STATUS": "infected"
+	},
+	{
+		"#": "120",
+		"LAT": "-2.3559E-2",
+		"LONG": "37.906193000000002",
+		"NAME": "Kenya",
+		"STATUS": "infected"
+	},
+	{
+		"#": "121",
+		"LAT": "-3.3704170000000002",
+		"LONG": "-168.734039",
+		"NAME": "Kiribati",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "122",
+		"LAT": "42.602635999999997",
+		"LONG": "20.902977",
+		"NAME": "Kosovo",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "123",
+		"LAT": "29.31166",
+		"LONG": "47.481766",
+		"NAME": "Kuwait",
+		"STATUS": "infected"
+	},
+	{
+		"#": "124",
+		"LAT": "41.20438",
+		"LONG": "74.766098",
+		"NAME": "Kyrgyzstan",
+		"STATUS": "infected"
+	},
+	{
+		"#": "125",
+		"LAT": "19.856269999999999",
+		"LONG": "102.495496",
+		"NAME": "Laos",
+		"STATUS": "infected"
+	},
+	{
+		"#": "126",
+		"LAT": "56.879635",
+		"LONG": "24.603189",
+		"NAME": "Latvia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "127",
+		"LAT": "33.854720999999998",
+		"LONG": "35.862285",
+		"NAME": "Lebanon",
+		"STATUS": "infected"
+	},
+	{
+		"#": "128",
+		"LAT": "-29.609988000000001",
+		"LONG": "28.233608",
+		"NAME": "Lesotho",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "129",
+		"LAT": "6.4280549999999996",
+		"LONG": "-9.4294989999999999",
+		"NAME": "Liberia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "130",
+		"LAT": "26.335100000000001",
+		"LONG": "17.228331000000001",
+		"NAME": "Libya",
+		"STATUS": "infected"
+	},
+	{
+		"#": "131",
+		"LAT": "47.165999999999997",
+		"LONG": "9.5553729999999995",
+		"NAME": "Liechtenstein",
+		"STATUS": "infected"
+	},
+	{
+		"#": "132",
+		"LAT": "55.169438",
+		"LONG": "23.881274999999999",
+		"NAME": "Lithuania",
+		"STATUS": "infected"
+	},
+	{
+		"#": "133",
+		"LAT": "49.815272999999998",
+		"LONG": "6.1295830000000002",
+		"NAME": "Luxembourg",
+		"STATUS": "infected"
+	},
+	{
+		"#": "134",
+		"LAT": "22.198744999999999",
+		"LONG": "113.543873",
+		"NAME": "Macao",
+		"STATUS": "infected"
+	},
+	{
+		"#": "135",
+		"LAT": "41.608635",
+		"LONG": "21.745274999999999",
+		"NAME": "Macedonia [FYROM]",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "136",
+		"LAT": "-18.766946999999998",
+		"LONG": "46.869107",
+		"NAME": "Madagascar",
+		"STATUS": "infected"
+	},
+	{
+		"#": "137",
+		"LAT": "-13.254308",
+		"LONG": "34.301524999999998",
+		"NAME": "Malawi",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "138",
+		"LAT": "4.2104840000000001",
+		"LONG": "101.97576599999999",
+		"NAME": "Malaysia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "139",
+		"LAT": "3.2027779999999999",
+		"LONG": "73.220680000000002",
+		"NAME": "Maldives",
+		"STATUS": "infected"
+	},
+	{
+		"#": "140",
+		"LAT": "17.570692000000001",
+		"LONG": "-3.9961660000000001",
+		"NAME": "Mali",
+		"STATUS": "infected"
+	},
+	{
+		"#": "141",
+		"LAT": "35.937496000000003",
+		"LONG": "14.375416",
+		"NAME": "Malta",
+		"STATUS": "infected"
+	},
+	{
+		"#": "142",
+		"LAT": "7.1314739999999999",
+		"LONG": "171.18447800000001",
+		"NAME": "Marshall Islands",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "143",
+		"LAT": "14.641527999999999",
+		"LONG": "-61.024174000000002",
+		"NAME": "Martinique",
+		"STATUS": "infected"
+	},
+	{
+		"#": "144",
+		"LAT": "21.00789",
+		"LONG": "-10.940835",
+		"NAME": "Mauritania",
+		"STATUS": "infected"
+	},
+	{
+		"#": "145",
+		"LAT": "-20.348403999999999",
+		"LONG": "57.552152",
+		"NAME": "Mauritius",
+		"STATUS": "infected"
+	},
+	{
+		"#": "146",
+		"LAT": "-12.827500000000001",
+		"LONG": "45.166243999999999",
+		"NAME": "Mayotte",
+		"STATUS": "infected"
+	},
+	{
+		"#": "147",
+		"LAT": "23.634501",
+		"LONG": "-102.552784",
+		"NAME": "Mexico",
+		"STATUS": "infected"
+	},
+	{
+		"#": "148",
+		"LAT": "7.425554",
+		"LONG": "150.55081200000001",
+		"NAME": "Micronesia",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "149",
+		"LAT": "47.411631",
+		"LONG": "28.369885",
+		"NAME": "Moldova",
+		"STATUS": "infected"
+	},
+	{
+		"#": "150",
+		"LAT": "43.750298000000001",
+		"LONG": "7.4128410000000002",
+		"NAME": "Monaco",
+		"STATUS": "infected"
+	},
+	{
+		"#": "151",
+		"LAT": "46.862496",
+		"LONG": "103.846656",
+		"NAME": "Mongolia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "152",
+		"LAT": "42.708677999999999",
+		"LONG": "19.374389999999998",
+		"NAME": "Montenegro",
+		"STATUS": "infected"
+	},
+	{
+		"#": "153",
+		"LAT": "16.742498000000001",
+		"LONG": "-62.187365999999997",
+		"NAME": "Montserrat",
+		"STATUS": "infected"
+	},
+	{
+		"#": "154",
+		"LAT": "31.791702000000001",
+		"LONG": "-7.0926200000000001",
+		"NAME": "Morocco",
+		"STATUS": "infected"
+	},
+	{
+		"#": "155",
+		"LAT": "-18.665694999999999",
+		"LONG": "35.529561999999999",
+		"NAME": "Mozambique",
+		"STATUS": "infected"
+	},
+	{
+		"#": "156",
+		"LAT": "21.913965000000001",
+		"LONG": "95.956222999999994",
+		"NAME": "Myanmar",
+		"STATUS": "infected"
+	},
+	{
+		"#": "157",
+		"LAT": "-22.957640000000001",
+		"LONG": "18.490410000000001",
+		"NAME": "Namibia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "158",
+		"LAT": "-0.52277799999999996",
+		"LONG": "166.93150299999999",
+		"NAME": "Nauru",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "159",
+		"LAT": "28.394856999999998",
+		"LONG": "84.124008000000003",
+		"NAME": "Nepal",
+		"STATUS": "infected"
+	},
+	{
+		"#": "160",
+		"LAT": "52.132632999999998",
+		"LONG": "5.2912660000000002",
+		"NAME": "Netherlands",
+		"STATUS": "infected"
+	},
+	{
+		"#": "161",
+		"LAT": "12.226079",
+		"LONG": "-69.060086999999996",
+		"NAME": "Netherlands Antilles",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "162",
+		"LAT": "-20.904305000000001",
+		"LONG": "165.618042",
+		"NAME": "New Caledonia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "163",
+		"LAT": "-40.900556999999999",
+		"LONG": "174.88597100000001",
+		"NAME": "New Zealand",
+		"STATUS": "infected"
+	},
+	{
+		"#": "164",
+		"LAT": "12.865416",
+		"LONG": "-85.207228999999998",
+		"NAME": "Nicaragua",
+		"STATUS": "infected"
+	},
+	{
+		"#": "165",
+		"LAT": "17.607789",
+		"LONG": "8.0816660000000002",
+		"NAME": "Niger",
+		"STATUS": "infected"
+	},
+	{
+		"#": "166",
+		"LAT": "9.0819989999999997",
+		"LONG": "8.6752769999999995",
+		"NAME": "Nigeria",
+		"STATUS": "infected"
+	},
+	{
+		"#": "167",
+		"LAT": "-19.054445000000001",
+		"LONG": "-169.867233",
+		"NAME": "Niue",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "168",
+		"LAT": "-29.040835000000001",
+		"LONG": "167.954712",
+		"NAME": "Norfolk Island",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "169",
+		"LAT": "40.339852",
+		"LONG": "127.510093",
+		"NAME": "North Korea",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "170",
+		"LAT": "41.116635600000002",
+		"LONG": "21.114847900000001",
+		"NAME": "North Macedonia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "171",
+		"LAT": "17.330829999999999",
+		"LONG": "145.38469000000001",
+		"NAME": "Northern Mariana Islands",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "172",
+		"LAT": "60.472023999999998",
+		"LONG": "8.4689460000000008",
+		"NAME": "Norway",
+		"STATUS": "infected"
+	},
+	{
+		"#": "173",
+		"LAT": "21.512582999999999",
+		"LONG": "55.923254999999997",
+		"NAME": "Oman",
+		"STATUS": "infected"
+	},
+	{
+		"#": "174",
+		"LAT": "30.375321",
+		"LONG": "69.345116000000004",
+		"NAME": "Pakistan",
+		"STATUS": "infected"
+	},
+	{
+		"#": "175",
+		"LAT": "7.5149800000000004",
+		"LONG": "134.58251999999999",
+		"NAME": "Palau",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "176",
+		"LAT": "31.898043000000001",
+		"LONG": "35.204268999999996",
+		"NAME": "Palestine",
+		"STATUS": "infected"
+	},
+	{
+		"#": "177",
+		"LAT": "31.952162000000001",
+		"LONG": "35.233153999999999",
+		"NAME": "Palestinian Territories",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "178",
+		"LAT": "8.5379810000000003",
+		"LONG": "-80.782127000000003",
+		"NAME": "Panama",
+		"STATUS": "infected"
+	},
+	{
+		"#": "179",
+		"LAT": "-6.3149930000000003",
+		"LONG": "143.95554999999999",
+		"NAME": "Papua New Guinea",
+		"STATUS": "infected"
+	},
+	{
+		"#": "180",
+		"LAT": "-23.442502999999999",
+		"LONG": "-58.443832",
+		"NAME": "Paraguay",
+		"STATUS": "infected"
+	},
+	{
+		"#": "181",
+		"LAT": "-9.1899669999999993",
+		"LONG": "-75.015152",
+		"NAME": "Peru",
+		"STATUS": "infected"
+	},
+	{
+		"#": "182",
+		"LAT": "12.879721",
+		"LONG": "121.774017",
+		"NAME": "Philippines",
+		"STATUS": "infected"
+	},
+	{
+		"#": "183",
+		"LAT": "-24.703614999999999",
+		"LONG": "-127.439308",
+		"NAME": "Pitcairn Islands",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "184",
+		"LAT": "51.919438",
+		"LONG": "19.145136000000001",
+		"NAME": "Poland",
+		"STATUS": "infected"
+	},
+	{
+		"#": "185",
+		"LAT": "39.399872000000002",
+		"LONG": "-8.2244539999999997",
+		"NAME": "Portugal",
+		"STATUS": "infected"
+	},
+	{
+		"#": "186",
+		"LAT": "18.220832999999999",
+		"LONG": "-66.590148999999997",
+		"NAME": "Puerto Rico",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "187",
+		"LAT": "25.354825999999999",
+		"LONG": "51.183883999999999",
+		"NAME": "Qatar",
+		"STATUS": "infected"
+	},
+	{
+		"#": "188",
+		"LAT": "-21.115141000000001",
+		"LONG": "55.536383999999998",
+		"NAME": "Réunion",
+		"STATUS": "infected"
+	},
+	{
+		"#": "189",
+		"LAT": "45.943161000000003",
+		"LONG": "24.966760000000001",
+		"NAME": "Romania",
+		"STATUS": "infected"
+	},
+	{
+		"#": "190",
+		"LAT": "61.524009999999997",
+		"LONG": "105.31875599999999",
+		"NAME": "Russia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "191",
+		"LAT": "-1.9402779999999999",
+		"LONG": "29.873888000000001",
+		"NAME": "Rwanda",
+		"STATUS": "infected"
+	},
+	{
+		"#": "192",
+		"LAT": "35.907756999999997",
+		"LONG": "127.76692199999999",
+		"NAME": "S. Korea",
+		"STATUS": "infected"
+	},
+	{
+		"#": "193",
+		"LAT": "-24.143474000000001",
+		"LONG": "-10.030696000000001",
+		"NAME": "Saint Helena",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "194",
+		"LAT": "17.357821999999999",
+		"LONG": "-62.782997999999999",
+		"NAME": "Saint Kitts and Nevis",
+		"STATUS": "infected"
+	},
+	{
+		"#": "195",
+		"LAT": "13.909444000000001",
+		"LONG": "-60.978892999999999",
+		"NAME": "Saint Lucia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "196",
+		"LAT": "18.065000999999999",
+		"LONG": "-63.132190999999999",
+		"NAME": "Saint Martin",
+		"STATUS": "infected"
+	},
+	{
+		"#": "197",
+		"LAT": "46.941935999999998",
+		"LONG": "-56.27111",
+		"NAME": "Saint Pierre and Miquelon",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "198",
+		"LAT": "-13.759029",
+		"LONG": "-172.10462899999999",
+		"NAME": "Samoa",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "199",
+		"LAT": "43.942360000000001",
+		"LONG": "12.457777",
+		"NAME": "San Marino",
+		"STATUS": "infected"
+	},
+	{
+		"#": "200",
+		"LAT": "0.18636",
+		"LONG": "6.6130810000000002",
+		"NAME": "São Tomé and Príncipe",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "201",
+		"LAT": "23.885942",
+		"LONG": "45.079161999999997",
+		"NAME": "Saudi Arabia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "202",
+		"LAT": "14.497401",
+		"LONG": "-14.452362000000001",
+		"NAME": "Senegal",
+		"STATUS": "infected"
+	},
+	{
+		"#": "203",
+		"LAT": "44.016520999999997",
+		"LONG": "21.005859000000001",
+		"NAME": "Serbia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "204",
+		"LAT": "-4.6795739999999997",
+		"LONG": "55.491976999999999",
+		"NAME": "Seychelles",
+		"STATUS": "infected"
+	},
+	{
+		"#": "205",
+		"LAT": "8.4605549999999994",
+		"LONG": "-11.779889000000001",
+		"NAME": "Sierra Leone",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "206",
+		"LAT": "1.3520829999999999",
+		"LONG": "103.819836",
+		"NAME": "Singapore",
+		"STATUS": "infected"
+	},
+	{
+		"#": "207",
+		"LAT": "18.035177099999999",
+		"LONG": "-63.0726187",
+		"NAME": "Sint Maarten",
+		"STATUS": "infected"
+	},
+	{
+		"#": "208",
+		"LAT": "48.669026000000002",
+		"LONG": "19.699024000000001",
+		"NAME": "Slovakia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "209",
+		"LAT": "46.151240999999999",
+		"LONG": "14.995463000000001",
+		"NAME": "Slovenia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "210",
+		"LAT": "-9.6457099999999993",
+		"LONG": "160.156194",
+		"NAME": "Solomon Islands",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "211",
+		"LAT": "5.1521489999999996",
+		"LONG": "46.199615999999999",
+		"NAME": "Somalia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "212",
+		"LAT": "-30.559481999999999",
+		"LONG": "22.937505999999999",
+		"NAME": "South Africa",
+		"STATUS": "infected"
+	},
+	{
+		"#": "213",
+		"LAT": "-54.429578999999997",
+		"LONG": "-36.587909000000003",
+		"NAME": "South Georgia and the South Sandwich Islands",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "214",
+		"LAT": "40.463667000000001",
+		"LONG": "-3.7492200000000002",
+		"NAME": "Spain",
+		"STATUS": "infected"
+	},
+	{
+		"#": "215",
+		"LAT": "7.8730539999999998",
+		"LONG": "80.771797000000007",
+		"NAME": "Sri Lanka",
+		"STATUS": "infected"
+	},
+	{
+		"#": "216",
+		"LAT": "17.897977099999999",
+		"LONG": "-62.841366700000002",
+		"NAME": "St. Barth",
+		"STATUS": "infected"
+	},
+	{
+		"#": "217",
+		"LAT": "12.984305000000001",
+		"LONG": "-61.287227999999999",
+		"NAME": "St. Vincent Grenadines",
+		"STATUS": "infected"
+	},
+	{
+		"#": "218",
+		"LAT": "12.862807",
+		"LONG": "30.217635999999999",
+		"NAME": "Sudan",
+		"STATUS": "infected"
+	},
+	{
+		"#": "219",
+		"LAT": "3.919305",
+		"LONG": "-56.027782999999999",
+		"NAME": "Suriname",
+		"STATUS": "infected"
+	},
+	{
+		"#": "220",
+		"LAT": "77.553604000000007",
+		"LONG": "23.670272000000001",
+		"NAME": "Svalbard and Jan Mayen",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "221",
+		"LAT": "-26.522503",
+		"LONG": "31.465865999999998",
+		"NAME": "Swaziland",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "222",
+		"LAT": "60.128160999999999",
+		"LONG": "18.643501000000001",
+		"NAME": "Sweden",
+		"STATUS": "infected"
+	},
+	{
+		"#": "223",
+		"LAT": "46.818187999999999",
+		"LONG": "8.2275120000000008",
+		"NAME": "Switzerland",
+		"STATUS": "infected"
+	},
+	{
+		"#": "224",
+		"LAT": "34.802075000000002",
+		"LONG": "38.996814999999998",
+		"NAME": "Syria",
+		"STATUS": "infected"
+	},
+	{
+		"#": "225",
+		"LAT": "23.69781",
+		"LONG": "120.960515",
+		"NAME": "Taiwan",
+		"STATUS": "infected"
+	},
+	{
+		"#": "226",
+		"LAT": "38.861033999999997",
+		"LONG": "71.276093000000003",
+		"NAME": "Tajikistan",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "227",
+		"LAT": "-6.3690280000000001",
+		"LONG": "34.888821999999998",
+		"NAME": "Tanzania",
+		"STATUS": "infected"
+	},
+	{
+		"#": "228",
+		"LAT": "15.870032",
+		"LONG": "100.992541",
+		"NAME": "Thailand",
+		"STATUS": "infected"
+	},
+	{
+		"#": "229",
+		"LAT": "-8.8742169999999998",
+		"LONG": "125.72753899999999",
+		"NAME": "Timor-Leste",
+		"STATUS": "infected"
+	},
+	{
+		"#": "230",
+		"LAT": "8.6195430000000002",
+		"LONG": "0.82478200000000002",
+		"NAME": "Togo",
+		"STATUS": "infected"
+	},
+	{
+		"#": "231",
+		"LAT": "-8.9673630000000006",
+		"LONG": "-171.85588100000001",
+		"NAME": "Tokelau",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "232",
+		"LAT": "-21.178985999999998",
+		"LONG": "-175.19824199999999",
+		"NAME": "Tonga",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "233",
+		"LAT": "10.691803",
+		"LONG": "-61.222503000000003",
+		"NAME": "Trinidad and Tobago",
+		"STATUS": "infected"
+	},
+	{
+		"#": "234",
+		"LAT": "33.886916999999997",
+		"LONG": "9.5374990000000004",
+		"NAME": "Tunisia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "235",
+		"LAT": "38.963745000000003",
+		"LONG": "35.243321999999999",
+		"NAME": "Turkey",
+		"STATUS": "infected"
+	},
+	{
+		"#": "236",
+		"LAT": "38.969718999999998",
+		"LONG": "59.556277999999999",
+		"NAME": "Turkmenistan",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "237",
+		"LAT": "21.694025",
+		"LONG": "-71.797927999999999",
+		"NAME": "Turks and Caicos",
+		"STATUS": "infected"
+	},
+	{
+		"#": "238",
+		"LAT": "-7.1095350000000002",
+		"LONG": "177.64932999999999",
+		"NAME": "Tuvalu",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "239",
+		"LAT": "18.335764999999999",
+		"LONG": "-64.896334999999993",
+		"NAME": "U.S. Virgin Islands",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "240",
+		"LAT": "23.424075999999999",
+		"LONG": "53.847817999999997",
+		"NAME": "UAE",
+		"STATUS": "infected"
+	},
+	{
+		"#": "241",
+		"LAT": "1.3733329999999999",
+		"LONG": "32.290275000000001",
+		"NAME": "Uganda",
+		"STATUS": "infected"
+	},
+	{
+		"#": "242",
+		"LAT": "55.378050999999999",
+		"LONG": "-3.4359730000000002",
+		"NAME": "UK",
+		"STATUS": "infected"
+	},
+	{
+		"#": "243",
+		"LAT": "48.379432999999999",
+		"LONG": "31.165579999999999",
+		"NAME": "Ukraine",
+		"STATUS": "infected"
+	},
+	{
+		"#": "244",
+		"LAT": "-32.522779",
+		"LONG": "-55.765835000000003",
+		"NAME": "Uruguay",
+		"STATUS": "infected"
+	},
+	{
+		"#": "245",
+		"LAT": "37.090240000000001",
+		"LONG": "-95.712890999999999",
+		"NAME": "USA",
+		"STATUS": "infected"
+	},
+	{
+		"#": "246",
+		"LAT": "41.377490999999999",
+		"LONG": "64.585262",
+		"NAME": "Uzbekistan",
+		"STATUS": "infected"
+	},
+	{
+		"#": "247",
+		"LAT": "-15.376706",
+		"LONG": "166.959158",
+		"NAME": "Vanuatu",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "248",
+		"LAT": "41.902915999999998",
+		"LONG": "12.453389",
+		"NAME": "Vatican City",
+		"STATUS": "infected"
+	},
+	{
+		"#": "249",
+		"LAT": "6.4237500000000001",
+		"LONG": "-66.589730000000003",
+		"NAME": "Venezuela",
+		"STATUS": "infected"
+	},
+	{
+		"#": "250",
+		"LAT": "14.058324000000001",
+		"LONG": "108.277199",
+		"NAME": "Vietnam",
+		"STATUS": "infected"
+	},
+	{
+		"#": "251",
+		"LAT": "-13.768751999999999",
+		"LONG": "-177.15609699999999",
+		"NAME": "Wallis and Futuna",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "252",
+		"LAT": "24.215527000000002",
+		"LONG": "-12.885833999999999",
+		"NAME": "Western Sahara",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "253",
+		"LAT": "15.552727000000001",
+		"LONG": "48.516387999999999",
+		"NAME": "Yemen",
+		"STATUS": "not-infected"
+	},
+	{
+		"#": "254",
+		"LAT": "-13.133896999999999",
+		"LONG": "27.849332",
+		"NAME": "Zambia",
+		"STATUS": "infected"
+	},
+	{
+		"#": "255",
+		"LAT": "-19.015438",
+		"LONG": "29.154857",
+		"NAME": "Zimbabwe",
+		"STATUS": "infected"
+	}
+]
