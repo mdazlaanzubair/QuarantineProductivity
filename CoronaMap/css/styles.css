@@ -18,25 +18,13 @@
 
 /* COUNTRY INFO */
 .info-popup {
-    background: rgba(0, 0, 0, 0.5);
-    color: #fff;
     position: absolute;
-    bottom: 10px;
-    left: 50%;
+    top: 10px;
+    left: 10px;
     padding: 15px;
-    text-align: center;
-    font-size: 150%;
     border-radius: 3px;
+    color: #fff;
     display: none;
-}
-
-/* CUSTOM HELPERS */
-.red {
-    color: #ff0000;
-    font-size: 75% !important;
-}
-
-.green {
-    color: #b3ff00;
-    font-size: 75% !important;
+    background-color: #0000009f;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }

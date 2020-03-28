@@ -29,9 +29,13 @@ def fetchUrlContent(url):
         # COLLECTING ALL TABLE-DATA-CELLS FROM TABLE-ROWS
         cells = row.findAll('td')
 
+        logitutde, latitude = coordinateFinder(cells[0].string)
+
         # CREATING DICTIONARY OF EACH COUNTRY SEPARATELY
         data = {
             'country': cells[0].string,
+            'long': logitutde,
+            'lat': latitude,
             'total_cases': cells[1].string,
             'new_cases': cells[2].string,
             'total_deaths': cells[3].string,
@@ -54,6 +58,26 @@ def fetchUrlContent(url):
     # WRITING JSON DATA TO FILE
     with open("dataset.json", "w") as outfile:
         outfile.write(json_formatted_str)
+
+
+def coordinateFinder(country):
+
+    # LOADING ALL COUNTRIES DATA
+    with open('countries_coordinates_dataset.json', 'r') as f:
+        countries_coordinates_dataset = json.load(f)
+
+    long = "longitude"
+    lat = "latitude"
+
+    for j in countries_coordinates_dataset:
+        if j['country'] == country:
+            long = j["long"]
+            lat = j["lat"]
+            break
+        else:
+            pass
+
+    return long, lat
 
 
 fetchUrlContent("https://www.worldometers.info/coronavirus/#countries")
