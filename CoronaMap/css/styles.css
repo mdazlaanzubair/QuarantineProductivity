@@ -11,17 +11,32 @@
     height: 100vh;
 }
 
-/* DIV TO DISPLAY MARKER POSITION */
-.coordinates {
+/* MAP MARKERS */
+.marker {
+    cursor: pointer;
+}
+
+/* COUNTRY INFO */
+.info-popup {
     background: rgba(0, 0, 0, 0.5);
     color: #fff;
     position: absolute;
-    bottom: 40px;
-    left: 10px;
-    padding: 5px 10px;
-    margin: 0;
-    font-size: 11px;
-    line-height: 18px;
+    bottom: 10px;
+    left: 50%;
+    padding: 15px;
+    text-align: center;
+    font-size: 150%;
     border-radius: 3px;
     display: none;
-    }
+}
+
+/* CUSTOM HELPERS */
+.red {
+    color: #ff0000;
+    font-size: 75% !important;
+}
+
+.green {
+    color: #b3ff00;
+    font-size: 75% !important;
+}
