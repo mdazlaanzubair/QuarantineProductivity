@@ -1,0 +1,22 @@
+/* DELETING DEFAULT MARGIN AND PADDING OF WEB PAGE */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* MAIN MAP SIZING */
+.corona-map 
+{
+    width: 100vw; 
+    height: 100vh;
+}
+
+/* HIDING MAPBOX OVERLAYS */
+.mapboxgl-ctrl-top-left, .mapboxgl-ctrl-bottom-right, .mapboxgl-ctrl-top-right, .mapboxgl-ctrl-bottom-left {
+    display: none;
+}
+
+/* NAVBAR STYLING */
+.navbar-bg-color {
+    background-color: #00040e;
+}
